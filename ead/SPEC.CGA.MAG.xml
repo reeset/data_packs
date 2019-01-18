@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Gus Mager Papers and Collection of Original Cartoon Art, 1916-1954
+                    <num>SPEC.CGA.MAG</num>
+                </titleproper>
+                <author>Finding aid prepared by Megan Sand</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Ohio State University Libraries Special Collections</publisher>
+                <address>
+                    <addressline>1858 Neil Avenue</addressline>
+                    <addressline>Columbus, OH, 43210</addressline>
+                </address>
+                <date>October 2017</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2017-12-06T08:02-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Gus Mager Papers and Collection of Original Cartoon Art</unittitle>
+            <unitid>SPEC.CGA.MAG</unitid>
+            <repository>
+                <corpname>Ohio State University Libraries Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.2 Cubic feet</extent>
+                <extent>2 boxes</extent>
+            </physdesc>
+            <unitdate>1916-1954</unitdate>
+            <abstract id="ref15" label="Abstract">The Gus Mager Papers and Collection of Original Cartoon Art contains proofs, sketch and composition books, photographs of cartoonist, Charles Augustus "Gus" Mager. Original cartoon art by Gus Mager has been separated and is available in the 
+                <extref ns2:actuate="onRequest" ns2:show="embed" ns2:title="Original Art Database" ns2:href="http://osucartoons.pastperfectonline.com/">Original Art Database.</extref></abstract>
+            <physdesc id="ref16" label="Physical Description">2 boxes: (1) 5" hollinger legal document box (1) 25.25" x 19" x 2.5" flat box</physdesc>
+            <langmaterial id="ref17" label="Language of Materials">English</langmaterial>
+            <origination label="creator">
+                <persname rules="local" source="local">Mager, Gus</persname>
+            </origination>
+        </did>
+        <arrangement id="ref18">
+            <head>Arrangement of Materials</head>
+            <p>This small collection is arranged by size of materials.</p>
+        </arrangement>
+        <acqinfo id="ref19">
+            <head>Acquisitions Information</head>
+            <p>CGA.2017.075: Judith Mager Jim, 2017</p>
+        </acqinfo>
+        <prefercite id="ref20">
+            <head>Preferred Citation</head>
+            <p>[identification of item], [Box number/ Folder number], Gus Mager Papers and Collection of Original Cartoon Art, SPEC.CGA.MAG, Billy Ireland Cartoon Library &amp; Museum, Ohio State University</p>
+        </prefercite>
+        <accessrestrict id="ref21">
+            <head>Access to Materials</head>
+            <p>Materials in this collection are available for use, but may be used in the Billy Ireland Cartoon Library &amp; Museum] reading room only. Audio/visual materials and computer media may need a use copy produced before access is allowed. To request material from this finding aid please contact the reading room by email 
+                <extref ns2:actuate="onRequest" ns2:show="embed" ns2:title="cartoons@osu.edu" ns2:href="cartoons@osu.edu">cartoons@osu.edu</extref> or by phone 614-292-0538.</p>
+        </accessrestrict>
+        <userestrict id="ref22">
+            <head>Use of Materials</head>
+            <p>Materials in this collection may be protected by copyright, and are made available for research and educational purposes. In general, the OSU Libraries do not own the copyright for materials from our collections and cannot grant copyright permissions for these materials. The user is responsible for making a final determination of copyright status. If copyright protection applies, permission must be obtained from the copyright holder to reuse, publish, or reproduce the work beyond the bounds of fair use or other exceptions to the law. Works in the public domain are not protected by copyright and do not require permission to use.</p>
+        </userestrict>
+        <processinfo id="ref23">
+            <head>Processing Information</head>
+            <p>Megan Sand, October 2017.</p>
+        </processinfo>
+        <bioghist id="ref24">
+            <head>Biographical Note</head>
+            <p>Charles Augustus "Gus" Mager was born in New Jersey in 1878. Here is known mainly for the his Sunday newspaper comic strip "Hawkshaw the Detective," which was a spoof of Sherlock Holmes. "Hawkshaw" ran intermittingly from 1913 to 1922 and from 1931 to 1947. During the 1920s, Mager worked as an assistant on Rudolph Dirks' comic strip "Captain and the Kids." Other comic strips include "Jungle Society" (1904-1906), "Mager's Monks" (1904-1913), "Sherlocko and Watso" (1910-1913; an earlier parody of Sherlock Holmes), "Milliobucks" (1913), "Main Street" (1922-1923), and various other titles.</p>
+            <p>Mager was also an accomplished painter, whose work was widely exhibited. His paintings are in the collections of the Whitney Museum and the Newark Museum of Art.</p>
+            <p>Mager died in Pennsylvania in 1956 at the age of 77.</p>
+        </bioghist>
+        <scopecontent id="ref25">
+            <head>Scope and Contents</head>
+            <p>This small collection includes proofs of "Sherlocko," "Captain and the Kids," "Hawkshaw the Detective," and "Main Street." In addition to sketch and composition books by Mager, photographs, and copies of the magazine "Outdoor Life" in which Mager wrote and illustrated the column "Game Gimmicks."</p>
+            <p>Original art by Gus Mager has been separated and cataloged in the 
+                <extref ns2:actuate="onRequest" ns2:show="embed" ns2:title="Original Art Database" ns2:href="http://osucartoons.pastperfectonline.com/">Original Art Database</extref>.</p>
+        </scopecontent>
+        <relatedmaterial id="ref27">
+            <head>Related Materials</head>
+            <p>Works by Gus Miscellaneous clippings about Mager may be found in the library's biography file under his last name.</p>
+        </relatedmaterial>
+        <separatedmaterial id="ref26">
+            <head>Separated Materials</head>
+            <p>Original art has been separated and cataloged in the Original Art Database. The art can be accessed through searching 
+                <extref ns2:actuate="onRequest" ns2:title="Mager, Gus, 1878-1956" ns2:href="http://osucartoons.pastperfectonline.com/vocabulary?keyword=Mager%2C+Gus%2C+1878-1956&amp;letter=M&amp;searchtype=creator&amp;showsearch=true">Mager, Gus, 1878-1956</extref></p>
+        </separatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Comic books, strips, etc</subject>
+            <genreform source="aat">Comic strips</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref1" level="file">
+                <did>
+                    <unittitle>"Sherlocko" proofs</unittitle>
+                    <container id="cid6441001" type="Box" label="Mixed materials">MAG 1</container>
+                    <container parent="cid6441001" type="Folder">1</container>
+                    <unitdate>1924-1925</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref2" level="file">
+                <did>
+                    <unittitle>"The Captain and the Kids" and "Hawkshaw the Detective" proofs</unittitle>
+                    <container id="cid6441002" type="Box" label="Mixed materials">MAG 1</container>
+                    <container parent="cid6441002" type="Folder">2</container>
+                    <unitdate>1944-1946</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref3" level="item">
+                <did>
+                    <unittitle>"Main Street" proof</unittitle>
+                    <container id="cid6441003" type="Box" label="Mixed materials">MAG 1</container>
+                    <container parent="cid6441003" type="Folder">3</container>
+                    <unitdate>1924</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref4" level="item">
+                <did>
+                    <unittitle>Composition Book, "Outdoor Life"</unittitle>
+                    <container id="cid6441004" type="Box" label="Mixed materials">MAG 2</container>
+                    <container parent="cid6441004" type="Folder">1</container>
+                    <unitdate>1954-1956</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref5" level="item">
+                <did>
+                    <unittitle>Compositions, October-May</unittitle>
+                    <container id="cid6441005" type="Box" label="Mixed materials">MAG 2</container>
+                    <container parent="cid6441005" type="Folder">2</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref6" level="item">
+                <did>
+                    <unittitle>Paramount Composition Book</unittitle>
+                    <container id="cid6441006" type="Box" label="Mixed materials">MAG 2</container>
+                    <container parent="cid6441006" type="Folder">3</container>
+                    <unitdate>1934-1938</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref7" level="item">
+                <did>
+                    <unittitle>Photograph of Gus Mager in group</unittitle>
+                    <container id="cid6441007" type="Box" label="Mixed materials">MAG 2</container>
+                    <container parent="cid6441007" type="Folder">4</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref8" level="file">
+                <did>
+                    <unittitle>Photographs of Gus Mager and Family</unittitle>
+                    <container id="cid6441008" type="Box" label="Mixed materials">MAG 2</container>
+                    <container parent="cid6441008" type="Folder">5</container>
+                    <unitdate>1900-1954</unitdate>
+                </did>
+                <scopecontent id="ref9">
+                    <head>Scope and Contents</head>
+                    <p>1. A young Gus Mager, circa 1900 2. Gus Mager, the Artist. Terrace Street, Newark, NJ, circa 1912 3. Gus Mager the Cartoonist 4. Gus Mager, Matilda Mager, Rudolph Dirks, Helen Dirks, Bob Mager, circa 1908 5. Group Photo: Gus Mager with banjo, Walk Kuhn with Guitar, unknown female and male, James Gress, and "Pop" Hart 6. Gus Mager backpacking in Adirondacks 7. Gus Mager, circa 1954</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref11" level="item">
+                <did>
+                    <unittitle>Outdoor Life, "Game Gimmicks"</unittitle>
+                    <container id="cid6441009" type="Box" label="Mixed materials">MAG 2</container>
+                    <container parent="cid6441009" type="Folder">6</container>
+                    <unitdate>April 1953</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref12" level="item">
+                <did>
+                    <unittitle>Outdoor Life, "Game Gimmicks"</unittitle>
+                    <container id="cid6441010" type="Box" label="Mixed materials">MAG 2</container>
+                    <container parent="cid6441010" type="Folder">7</container>
+                    <unitdate>March 1954</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref13" level="item">
+                <did>
+                    <unittitle>Outdoor Life, "Game Gimmicks"</unittitle>
+                    <container id="cid6441011" type="Box" label="Mixed materials">MAG 2</container>
+                    <container parent="cid6441011" type="Folder">8</container>
+                    <unitdate>April 1954</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref14" level="item">
+                <did>
+                    <unittitle>"Adventures of Hawkshaw" booklet</unittitle>
+                    <container id="cid6441012" type="Box" label="Mixed materials">MAG 2</container>
+                    <container parent="cid6441012" type="Folder">9</container>
+                    <unitdate>1927</unitdate>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

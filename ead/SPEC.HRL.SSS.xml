@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Society for Slovene Studies Records, 1973-2012
+                    <num>SPEC.HRL.SSS</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by M.A. Johnson with additional material by Carole Rogel</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Ohio State University Libraries Special Collections</publisher>
+                <address>
+                    <addressline>1858 Neil Avenue</addressline>
+                    <addressline>Columbus, OH, 43210</addressline>
+                </address>
+                <date>2018</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-08T15:33-0400</date>
+            </creation>
+            <langusage>Finding aid written in 
+                <language langcode="eng">English</language> and 
+                <language langcode="slv">Slovenian</language></langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Society for Slovene Studies Records</unittitle>
+            <unitid>SPEC.HRL.SSS</unitid>
+            <repository>
+                <corpname>Ohio State University Libraries Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>10.5 Cubic feet</extent>
+            </physdesc>
+            <unitdate normal="1973/2012" type="inclusive">1973-2012</unitdate>
+            <abstract id="ref2" label="Abstract">The Society for Slovene Studies is a scholarly, non-profit organization founded in 1973 that is committed to the promotion of Slovene studies. It is an internationally recognized association that disseminates scholarly information on Slovene studies through the organization of meetings and conferences, and through through the preparation of scholarly works for publication. The records of the Society for Slovene Studies include correspondence, financial records, membership records, information about the Society's participation in conferences, sponsoring of scholarly panels, as well as materials regarding its publications. Also included is a set of the Society's newsletters and its publications, e.g., festschrifts, directories, and issues of 
+                <title render="italic">Slovene Studies: Journal of the Society for Slovene Studies</title>. Among the records may be found information on the founding of the Society for Slovene Studies in 1973; its executive administration, constitution and by laws; its publications, website, conferences (including Young Scholars panels and collaborative panels with Central Europeanists); membership (lists, international and honorary memberships); financial reports on dues, bequests, donations, student prizes, publication costs, and subventions. Other topics include Slovenia in Crisis, 1986-1991 - Slovenia's independence, the Bled Conference of 1988, American Scholars for an Independent Slovenia (ASIS), immigration studies scholars; the "Hurricane Conference, Boca Raton, Florida, 1998 - the Plecnik sessions, the crisis in the Society's administration and the solution; and the proposals for a Center for Slovene Studies.</abstract>
+            <langmaterial id="ref199" label="Language of Materials">English, Slovenian</langmaterial>
+            <origination label="creator">
+                <corpname source="ingest">Society for Slovene Studies</corpname>
+            </origination>
+        </did>
+        <arrangement id="ref8">
+            <head>Arrangement of Materials</head>
+            <p>The records of the Society for Slovene Studies are arranged in eight series. The first six correspond to the individual officers of the organization who created each series, and these are arranged in chronological order according to the officers' terms of service.</p>
+            <p>Series 1: Toussaint Hocevar Series 2: Carole Rogel Series 3: Henry R. Cooper Series 4: Tom Priestly Series 5: John Cox Series 6: Metod Milac Series 7: Newsletters Series 8: Publications</p>
+        </arrangement>
+        <acqinfo id="ref14">
+            <head>Acquisitions Information</head>
+            <p>The records of the Society for Slovene Studies were sent by the individual executive officers to the Hilandar Research Library from summer 2010 to summer 2012.</p>
+        </acqinfo>
+        <custodhist id="ref15">
+            <head>Custodial History</head>
+            <p>The records of the Society for Slovene Records were held by their individual creators - the officers of the executive board - until they were donated to the Hilandar Research Library.</p>
+        </custodhist>
+        <prefercite id="ref13">
+            <head>Preferred Citation</head>
+            <p>[identifiction of item], Society for Slovene Studies Records, SPEC.HRL.SSS, Hilandar Research Library, Ohio State University</p>
+        </prefercite>
+        <accessrestrict id="ref198">
+            <head>Access to Materials</head>
+            <p>Materials in this collection are available for use, but may be used in the Thompson Library Special Collections reading room only. Computer media may need a use copy produced before access is allowed.</p>
+        </accessrestrict>
+        <userestrict id="ref200">
+            <head>Use of Materials</head>
+            <p>Please ask repository staff for details if you are interested in obtaining photocopies or scans of the collection.</p>
+            <p>Materials in this collection may be protected by copyright, and are made available for research and educational purposes. In general, the OSU Libraries do not own the copyright for materials from our collections and cannot grant copyright permissions for these materials. The user is responsible for making a final determination of copyright status. If copyright protection applies, permission must be obtained from the copyright holder to reuse, publish, or reproduce the work beyond the bounds of fair use or other exceptions to the law. Works in the public domain are not protected by copyright and do not require permission to use.</p>
+        </userestrict>
+        <processinfo id="ref10">
+            <head>Processing Information</head>
+            <p>The records are organized in chronological order according to terms served by the executive officers. All metal fasteners have been removed and folded pages have been flattened by Peter DeSimone and Lauren Ressue, Graduate Associates, The Hilandar Research Library, June-September, 2012.</p>
+        </processinfo>
+        <scopecontent id="ref6">
+            <head>Scope and Contents</head>
+            <p>The records of The Society for Slovene Studies are arranged in series corresponding to the creator, each of whom served as an officer of the Society (Toussaint Hocevar, Carole Rogel, Henry R. Cooper, Tom Priestly, John K. Cox, and Metod Milac). Additional series include the Society's newsletter and the Society's publications, e.g., festschrifts, directories, and issues of 
+                <title render="italic">Slovene Studies: Journal of the Society for Slovene Studies</title>. The series are arranged in chronological order according to the presidential terms. Note that (1) the records of Hocevar, who served as Secretary/Treasurer (1979-1982) under the Society's first president, Rado Lencek, are first chronologically, and (2) the records of Cox, who served as Secretary/Treasurer under Tom Priestly, follow Priestly's. The newsletters and publications follow Milac's series. The original order of the folders within each series is preserved. Note that Priestly's materials are digital - scanned documents on a DVD.</p>
+        </scopecontent>
+        <bioghist id="ref4">
+            <head>Historical Note</head>
+            <p>The Society for Slovene Studies (SSS) is a scholarly non-profit organization dedicated to fostering closer communication among scholars interested in Slovene studies, promoting the dissemination of scholarly information on Slovene studies through the organization of meetings and conferences, and preparing scholarly works for publication.</p>
+            <p>Founded in 1973 as a society of academics committed to the promotion of Slovene studies in the United States and Canada, the Society for Slovene Studies is today an internationally recognized association of scholars with members in many countries of the world. Initially based at the Institute on East Central Europe of Columbia University (1973-83), the Society for Slovene Studies moved to the Center for Slavic and East European Studies of The Ohio State University (1983-90), and then to the Russian and East European Institute of Indiana University (1990-91) and the Department of Slavic Languages and Literatures of the same university (1991-95). From 1995-99 the Society for Slovene Studies' center was in the Department of Modern Languages and Comparative Studies, the University of Alberta, from where it moved for two years to Indiana University (1999-2001), six years at Syracuse University (2001-2007), and now Bowling Green State University (2007-). Since 1976 the SSS has been affiliated with the Association for Slavic, East European, and Eurasian Studies (ASEEES, formerly AAASS) and participates in its national and international programs. In 1991the Society also became an associate member of the American Association of Teachers of Slavic and East European Languages (AATSEEL) and takes part in its conferences and activities.</p>
+            <p>Source: "Society for Slovene Studies Fact Sheet 2011," www.slovenestudies.com/misc/SSS_factsheet.pdf (accessed May 14, 2012).</p>
+        </bioghist>
+        <bioghist id="ref5">
+            <head>Historical Note</head>
+            <p>A small group of academics participated in a panel entitled "Slovenia Today" in New York City on April 18, 1973 at the Roosevelt Hotel. The panel was part of a mini-conference organized by the newly founded American Association for South Slavic Studies within the auspices of the 6th annual conference of the much larger American Association for the Advancement of Slavic Studies (AAASS). Enthusiasm for a separate professional association for those interested in Slovenia grew during the course of the evening among the 25 or so attendees. The panel, which was the last of the day, exceeded its time limit by one hour, so great was the excitement about prospects for a "Slovene" professional organization. Within weeks thereafter Rado L. Lencek (Columbia University) and Toussaint Hocevar (LSUNO, later renamed University of New Orleans) had polled prospective members about particulars. By year's end the Society for Slovene Studies (SSS) had been established as a scholarly, non-political forum for North Americans whose focus was Slovenia. Its declared purpose was to organize meetings, conferences and prepare scholarly publications. A Newsletter was sent in Autumn, a Constitution was adopted, and plans were made for the first conference (Milwaukee, Wisconsin, Spring 1974) in which SSS would sponsor its very own panels. Lencek acted as a temporary president, while Hocevar functioned as secretary-treasurer, positions which were formalized with later elections. The two remained the chief officers of SSS for nearly a decade.</p>
+            <p>During those years the SSS was active in national and regional conferences of the AAASS, and occasionally of the American Association of Teachers of Slavic and East European Languages (AATSEEL). The Society regularly participated in two conferences annually. The paper topics generally related to language, literature, culture, and quite frequently linguistics. The latter reflected the wide interest in the Slovene language among Slavic linguists at leading universities with graduate programs. The Society was incorporated as a non-profit organization in 1976 in New Orleans, where Toussaint Hocevar held an academic position. In 1977 the publication of a journal Papers in Slovene Studies was announced. It took a few years to sort out the organization and content of the publications. The Newsletter (11 issues) had become quite long, with as many as 20 pages containing not only time-sensitive information, but book reviews, short essays, and personal tributes. In Autumn 1978 the Newsletter was replaced with the Letter, a shorter bulletin. Meanwhile the journal Papers in Slovene Studies after three issues was replaced with Slovene Studies: Journal of The Society for Slovene Studies, which would include articles, book reviews and other scholarly pieces. Lencek, Rudolph M. Susel (Euclid, OH) and Henry R. Cooper (Northwestern University, later Indiana University) with others collaborated in issuing Papers. Cooper edited Slovene Studies from its beginning until 1984. During its early years the Society's program coordinator was Metod Milac (Syracuse University).</p>
+            <p>The Society's first decade culminated with an ambitious conference held in conjunction with the 4th Conference on Balkan and South Slavic Linguistics at the University of Chicago in March, 1984. Entitled "Four Hundred Years of the South Slavic Protestant Reformation (1584-1984), it coincided with the 400th anniversaries of the first Slovene Bible (Jurij Dalmatin) and the first Slovene grammar (Adam Bohoric). The program included 28 papers, 19 of which would be published in an impressive double volume of Slovene Studies VI, edited by Henry Cooper.</p>
+            <p>The mid-eighties brought new officers and new directions for the Society. Carole Rogel (Ohio State University) was elected President (1984-89); William Derbyshire (Rutgers University) was elected Secretary-Treasurer (1983-1986); Timothy Pogacar (Bowling Green State University) succeeded him (1987-94); and Tom M. S. Priestly (University of Alberta, Edmonton, Alberta, Canada) (1985-1994) was named Slovene Studies editor. Toussaint Hocevar (1985-86) and Joseph Paternost (Pennsylvania State University) (1987-90) served as Program coordinators. By Laws were introduced and approved in Chicago in 1984 to provide for a Printing Fund and for Honorary Memberships. Mary Molek's bequest to the Society in the early eighties became the basis for a Printing Fund that was invested in a Certificate of Deposit. In 1985 at the annual AAASS conference in New York, John Nielsen, a Metallurgy professor of Slovene descent who taught at New York University, hosted Society conference attendees at his Greenwich Village apartment. Thus began a series of social events that accompanied nearly every Society conference thereafter. A few years later John Nielsen, like Mary Molek, also remembered the organization in his will.</p>
+            <p>In 1985, for the Washington, DC annual meeting, the Society began to broaden its topic repertoire and also reached outside North America for scholarly collaboration. It presented an Honorary Membership to Janko Lavrin (1887-1986), the noted Slovene literary historian, essayist, and translator, long associated with the University of Nottingham in Great Britain. For a panel on Carinthia it invited two Austrians and a Slovene from Yugoslavia. The Austrians came, but the Slovene did not. His travel funds had been withdrawn at the last minute by Belgrade, as were the funds of others, primarily Croatians. And so the Society found itself immersed rather suddenly into Yugoslav current events.</p>
+            <p>In New Orleans (1986) a number of Slovenes did participate, supported by funds from their own republic. Their presentations on two panels underlined current language issues: language maintenance in multilingual states (Canada, Norway, and Yugoslavia) and the impact on Slovene in situations involving Slovene/Serbo-Croatian language contact. Clearly, Slovene intellectuals were reaching out to SSS to provide a forum for issues that were of urgent concern at home. Some joined SSS in New Orleans and attended future conferences. One was the sociologist Dimitrij Rupel (University of Ljubljana, Yugoslavia), who the following year in Boston offered a reassessment of Edvard Kocbek, a figure in disfavor in Communist Slovenia. At that same conference there was a panel on the Alps-Adriatic Working Community, founded in 1978 to help reintegrate regions that had been separated by post-World War II frontiers. An Austrian, a Slovene and two Triestiners (one Slovene) participated.</p>
+            <p>Because AAASS had planned the 1988 annual conference for Honolulu, SSS decided to hold its annual meeting at the Midwest AAASS in Bloomington, Indiana, in April. Although some members, a good number from Slovenia, did go to Hawaii, the Bloomington meeting had good attendance. It was the Society's 15th anniversary and it was time for some self-congratulations. In addition to the 1984 double issue of Slovene Studies noted above, the journal had published two other larger issues. One a festschrift volume commemorating Rado Lencek's 65th birthday (1986), edited by Henry Cooper, the other a festschrift honoring Toussaint Hocevar (1987), edited by Warren Mazek(US Merchant Marine Academy, Kingsport, NY) and Ales Lokar (University of Udine, Trieste, Italy), both economists, as was Hocevar. (The festschrifts were enabled by subventions from Columbia University and the University of New Orleans, respectively). But Bloomington was also a time for future projects and a discussion of escalating tensions in Slovenia. Five SSS members, who had been invited to attend a conference in Bled (May 9-14, 1988), were about to leave for Slovenia. The week-long meeting was devoted to American and Canadian literature. Including SSS into that mix was a hard fit, but it was an opportunity for Slovenes to broaden ties. The Slovene Immigration Society (Slovenska Izseljenska Matica) and the Ethnic Studies Institute established contacts with SSS members. Delo, conducted interviews. Most importantly, SSS officers met with Dusan Necak, Dean of the University's Faculty of Philosophy to discuss possibilities for future cooperation.</p>
+            <p>By 1989 Slovenes were routinely added to SSS panels, as were members from other countries outside North America. This provided valuable opportunities for scholarly exchange and new perspectives. The number of social science panels increased dramatically as Slovenes sought answers to their condition in Yugoslavia. In Chicago (1989) there was a panel on "Modernizing Socialist Economies," where leading economists presented solutions that they would soon be negotiating in a new independent state. By the time of the AAASS Miami conference (1991), Slovenia had declared independence, but was still awaiting international recognition. The Society offered several pertinent sessions. One was "Slovene Statehood: the Small Nation in a New Europe." Among the speakers were Peter Vodopivec (University of Ljubljana), the historian whose travel funds had been denied in 1985 and Dimitrij Rupel, who that Spring had become independent Slovenia's foreign minister.</p>
+            <p>Henry R. Cooper took over the SSS presidency (1990-95) just as the crisis in Yugoslavia escalated. His moving presidential comments in Letter kept members aware of events in Slovenia. Timothy Pogacar, then Secretary-Treasurer (1987-1995), together with Cooper and other members of SSS established a separate organization for those who wished to engage in opposition to the violence in Yugoslavia. "American Scholars for an Independent Slovenia," was incorporated in Ohio and issued several letters in 1991 that were sent to members and to political leaders in the United States. Meanwhile the Society continued to participate in annual AAASS conferences. Slovenia financially supported its scholars who were included in panels in the early Nineties. New scholarly contacts were established. In 1993 France Bernik, President of the Slovene Academy of Sciences and Arts (SAZU) became a member of SSS. The Academy proposed that a register of Slovene American scholars be prepared. A volume, entitled Who's Who of Slovene Descent in the United States was prepared by Rado L. Lencek and Joseph Velikonja (University of Washington) and issued by SSS in 1995. The Who's Who... was awarded a prize in 1996 by the Trieste Association of Slovene Intellectuals. In 1995 at its annual meeting in Washington, DC, the Slovene Ambassador Ernest Petric hosted a reception for the Society's scholars. After 1996, the annual meetings always featured a session on some aspect of Slovenia's foreign policy, a topic virtually unimaginable just a decade earlier. In 1996, the Society also announced that it had established a website. The Letter editor and able web master in the late-nineties and early 2000s was David Stermole (Toronto, Ontario, Canada).</p>
+            <p>Tom M.S. Priestly (1995-98) and John K. Cox (Wheeling Jesuit University, Wheeling, West Virginia) (1996-98) served as SSS president and secretary-treasurer, respectively, in years when the Society increased its international membership. Conference panels also grew in number and offered new subjects, some based on research in Slovene archives that had been opened after the regime change. There were more sessions on Slovene international relations involving the European Union and/or NATO; and there were more sessions on Slovene immigration both in Europe and abroad. Members of the Institute for Slovene Immigration (a part of SAZU) joined SSS and were regular presenters at conferences. In order to encourage graduate students in the field to pursue Slovene studies, a Graduate Student prize bearing the name of the Society's first president was established in 1997. (An undergraduate prize, named for Joseph Velikonja, would be introduced in 2003).</p>
+            <p>The landmark conference of the decade took place in Boca Raton, Florida, in 1998. It was the Society's 25th anniversary and Tom Priestly thought a special program should be planned. In addition to the regular panels, he organized back-to-back sessions on Slovenia's most distinguished architect, Joze Plecnik. Known for his work in Secession Vienna and later Masaryk's Prague, Plecnik's work is found throughout Ljubljana. A group of noted historians and practicing architects was assembled. The Plecnik scholars joined the Society in a gala dinner (of 21 Americans and 21 Europeans by Priestly's count) to celebrate SSS's quarter century. The conference was memorable for other reasons as well. On the opening day, southeastern Florida was hit by Hurricane Georges, which prevented hundreds of participants from arriving. Some key officers of the Society were not able to attend. At the Society's business meeting, we learned that John Cox wished to be relieved of some Secretary-Treasurer's duties. We also learned that Tom Priestly was resigning from the presidency before completing his term. It was as though the hurricane had also swept through the SSS. After Boca Raton, its former presidents (Lencek, Rogel, Cooper) consulted and settled on an interregnum solution: immediate past president, Henry Cooper, would replace Priestly, acting as temporary head until the 1991 conference, scheduled for Autumn in St. Louis. Carole Rogel agreed to serve as Treasurer until matters were settled. The Spring Letter announced the provisional arrangements. At the St. Louis meeting Cooper was asked to serve an additional year, and the office of Secretary-Treasurer was split in two, with Rogel continuing as Treasurer. Metod Milac took over the Secretary's job. Lea Plut-Pregelj (Washington, DC), who had served as Program Coordinator under Priestly, would resume that position (1995-1997; 2000-2003).</p>
+            <p>Metod Milac was elected SSS's fifth president (2001-2006) replacing interim president Cooper. Letter No. 49 (Spring 2001) contained seminal messages from both about the Society's accomplishments and goals for the future. These include continuing its excellent record of conference participation, publication, and stellar visibility among scholars in the field. For the future, widening exposure and expanding membership, particularly among younger scholars, was highlighted. Milac, a University of Syracuse library administrator, also proposed to inventory and find a home for the SSS archive. Both Cooper and Milac addressed moving forward toward establishing a Center for Slovene Studies at a major academic institution in North America. The governing principle in all endeavors was to disseminate information about Slovenia and Slovenes "in a language of international communication."</p>
+            <p>So it was that the Society moved from the Boca Raton "crisis" into the 21st century. The year 2001, however, produced a crisis all its own. The national conference was scheduled for Arlington, Virginia (Crystal City) in November. Because of the attack on the Pentagon in mid-September Washington's airport was closed. AAASS even considered cancelling the meeting in a hotel that was just minutes away from the damaged building. In the end the conference took place, but participation was not as large as expected. Yet Crystal City provided some reasons to celebrate. At the SSS reception the Department of Geography of the University of Ljubljana recognized the scholarly work of Joseph Velikonja, one of the Society's founders. And the Society awarded its first Rado L. Lencek Prize to Patrick Patterson (PhD candidate in the Department of History, University of Michigan). (Nine Lencek prizes have been awarded to date) The following year when the Society met in Pittsburgh, it initiated an annual "young scholars" panel. Since then, there have been ten panels involving younger scholars-31 in all with no repeats-with another planned for 2012's New Orleans meeting. That same year Slovene Studies Volume 20-21 (1998-1999) published an ambitious long-awaited double volume, a bi-lingual anthology of Slovene literature, produced by Henry Cooper.</p>
+            <p>The largest undertaking during the Milac presidency was an attempt to realize a Center for Slovene Studies. It is something the Society's leadership began discussing during the previous decade, with some encouragement from influential persons in Ljubljana. Various ideas about what a center should be were discussed at length. One idea that was rejected as being too narrow in focus was that of establishing a chair of Slovene language. Rather the Center concept that emerged would allow for exchanges of faculty and students in various fields and going in both directions. Stefan Kapsch (Reed College), a member of the Executive Council, undertook preparing an elaborate proposal that outlined possibilities along with projected costs. The details were tweaked and refined after the Boston conference in 2004 when Slovenia's new ambassador to the United States, Samuel Zbogar, met at length with SSS officers and talked about providing Center "seed money." The Kapsch document was further refined and presented at Salt Lake City in 2005, where both Zbogar and Slovene Consul to New York, Alenka Suhadolnik, were present. Kapsch then traveled to Ljubljana in November to meet with various officials. In the end, there was never an official response to all the discussions. Instead the Slovene government, under new direction after late 2004, established a Center at Cleveland State University, located in a city with a large Slovene ethnic community. Its official opening was in 2008, and its focus is on language teaching. The Society, however, has not abandoned its broader Center concept, which it regards as complementing, not competing with, Cleveland's.</p>
+            <p>Timothy Pogacar (2007-2012) succeeded as president in 2007. Michael Biggins (University of Washington), having replaced Derbyshire as secretary in 2006 continued in that capacity; and Rogel remained treasurer until the end of Pogacar's two terms. The Society continued to participate in AAASS/ASEEES conferences with impressive numbers. In New Orleans (2007) they offered a record number (12) of panels, with only a few less in Philadelphia (2008), Boston (2009), and in Los Angeles (2010). This does not include SSS members who gave presentations in cross-cultural or interdisciplinary sessions. Increasing numbers of participants from abroad helped account for the escalating numbers. During the Milac presidency the Society also had begun working with other Central Europeanists toward broader collaborations. After 2008 six affiliate societies also initiated "networking" receptions. The Society, thanks to program coordinator Veronica Aplenc (University of Pennsylvania), was instrumental in securing a grant from the Slovene government for the first networking event. The year 2008 was the Society's 35th anniversary.</p>
+            <p>Accomplishments of the Pogacar presidency also included facilitating, with the aid of Michael Biggins and the University of Washington's Open Journal Systems, an online presence of digitized issues of Slovene Studies. The journal will also remain in print, and its editing will increasingly be performed online as well. Pogacar's hope was to draw new, younger members into administrative positions and also to pursue the Center goal. Regarding the latter some preliminary talks have taken place with The Ohio State University. The matter of a home for SSS archive has been resolved. Copies of Society publications, the papers of its presidents and other officials are now housed at the Ohio State University Library's Special Collections, administered by Predrag Matejic, curator of the Hilandar Research Library. The official documents began arriving in Columbus, Ohio, in summer 2010, and are currently being processed by M.A. Johnson, an archivist who studied South Slavic and Balkan languages under Kenneth E. Naylor (19937-1992; professor of South Slavic Linguistics, The Ohio State University). She is also a member of the Society for Slovene Studies.</p>
+            <p>Written by Carole Rogel, June 2012</p>
+        </bioghist>
+        <relatedmaterial id="ref9">
+            <head>Related Materials</head>
+            <p>The papers of the first president of the Society for Slovene Studies, Rado Lencek, are located in the Narodna in univerzitetna knjiznica (NUK) [National and University Library of Slovenia], in Ljubljana, Slovenia. These papers include materials and records related to the Society for Slovene Studies.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <corpname source="ingest">American Association for South Slavic Studies</corpname>
+            <corpname source="ingest">American Association for the Advancement of Slavic Studies</corpname>
+            <corpname source="ingest">American Scholars for an Independent Slovenia (ASIS)</corpname>
+            <persname source="ingest">Bernik, France</persname>
+            <persname source="ingest">Biggins, Michael</persname>
+            <persname source="ingest">Cooper, Henry R.</persname>
+            <persname source="ingest">Cox, John K., 1964-</persname>
+            <persname source="ingest">Derbyshire, William W. (William Wadleigh), 1936-</persname>
+            <persname source="ingest">Hocevar, Toussaint</persname>
+            <persname source="ingest">Kapsch, Stefan</persname>
+            <persname source="ingest">Lavrin, Janko, 1887-1986</persname>
+            <persname source="ingest">Lencek, Rado L. (Rado Ludovik), 1921-2005</persname>
+            <persname source="ingest">Matejic, Predrag</persname>
+            <persname source="ingest">Mazek, Warren F., 1938-</persname>
+            <persname source="ingest">Milac, Metod M., 1924-</persname>
+            <persname source="ingest">Naylor, Kenneth E.</persname>
+            <persname source="ingest">Necak, Dusan</persname>
+            <persname source="ingest">Paternost, Joseph</persname>
+            <persname source="ingest">Petric, Ernest</persname>
+            <persname source="ingest">Pogacar, Timothy</persname>
+            <persname source="ingest">Priestly, Tom</persname>
+            <persname source="ingest">Rogel, Carole</persname>
+            <persname source="ingest">Rupel, Dimitrij</persname>
+            <corpname source="ingest">Society for Slovene Studies</corpname>
+            <persname source="ingest">Stermole, David</persname>
+            <persname source="ingest">Velikonja, Joseph</persname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref16" level="series">
+                <did>
+                    <unittitle>Toussaint Hocevar</unittitle>
+                    <unitid>Series 1</unitid>
+                    <unitdate normal="1973/1983" type="inclusive">1973-1983</unitdate>
+                </did>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Unlabeled accordion file of financial records</unittitle>
+                        <container id="cid9116173" type="Folder" label="Mixed Materials">1</container>
+                        <unitdate normal="1981/1983" type="inclusive">1981-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Soc. Slovene Studies Constitution</unittitle>
+                        <container id="cid9116172" type="Folder" label="Mixed Materials">2</container>
+                        <unitdate>[1973-1983]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Lencek</unittitle>
+                        <container id="cid9116171" type="Folder" label="Mixed Materials">3</container>
+                        <unitdate>[1973-1983]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Soc. for Slov. Studies Secretary's Business</unittitle>
+                        <container id="cid9116170" type="Folder" label="Mixed Materials">4</container>
+                        <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>SSS Bibliography of members</unittitle>
+                        <container id="cid9116169" type="Folder" label="Mixed Materials">5</container>
+                        <unitdate>[1973-1983]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>SSS Correspondence - Business (incl. inquires)</unittitle>
+                        <container id="cid9116168" type="Folder" label="Mixed Materials">6</container>
+                        <unitdate>[1973-1983]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>SSS Correspondence - Members</unittitle>
+                        <container id="cid9116167" type="Folder" label="Mixed Materials">7</container>
+                        <unitdate>[1973-1983]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>SSS Financial records</unittitle>
+                        <container id="cid9116166" type="Folder" label="Mixed Materials">8</container>
+                        <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>SSS Financial records</unittitle>
+                        <container id="cid9116165" type="Folder" label="Mixed Materials">9</container>
+                        <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>SSS Financial records</unittitle>
+                        <container id="cid9116164" type="Folder" label="Mixed Materials">10</container>
+                        <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>SSS Financial records</unittitle>
+                        <container id="cid9116163" type="Folder" label="Mixed Materials">11</container>
+                        <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>SSS Financial records</unittitle>
+                        <container id="cid9116162" type="Folder" label="Mixed Materials">12</container>
+                        <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>SSS Financial records</unittitle>
+                        <container id="cid9116161" type="Folder" label="Mixed Materials">13</container>
+                        <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>SSS Financial records</unittitle>
+                        <container id="cid9116160" type="Folder" label="Mixed Materials">14</container>
+                        <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>SSS Internal Revenue</unittitle>
+                        <container id="cid9116159" type="Folder" label="Mixed Materials">15</container>
+                        <unitdate>[1973-1983]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>SSS Minutes - Business meetings</unittitle>
+                        <container id="cid9116158" type="Folder" label="Mixed Materials">16</container>
+                        <unitdate>[1973-1983]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>SSS 
+                            <title render="italic">Letter</title> - copies [first letter 6/1/1978 - eighth 7/15/1980]</unittitle>
+                        <container id="cid9116157" type="Folder" label="Mixed Materials">17</container>
+                        <unitdate normal="1978/1980" type="inclusive">1978-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>SSS 
+                            <title render="italic">Letter</title> - materials</unittitle>
+                        <container id="cid9116156" type="Folder" label="Mixed Materials">18</container>
+                        <unitdate normal="1978/1980" type="inclusive">1978-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>SSS Printing Fund</unittitle>
+                        <container id="cid9116155" type="Folder" label="Mixed Materials">19</container>
+                        <unitdate>[1973-1983]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>SSS Sale of publications</unittitle>
+                        <container id="cid9116154" type="Folder" label="Mixed Materials">20</container>
+                        <unitdate>[1973-1983]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>SSS Subscriptions</unittitle>
+                        <container id="cid9116153" type="Folder" label="Mixed Materials">21</container>
+                        <unitdate>[1973-1983]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Society for Slovene Studies: Various items and correspondence</unittitle>
+                        <container id="cid9116152" type="Folder" label="Mixed Materials">22</container>
+                        <unitdate>[1973-1983]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>SSS - Various forms old</unittitle>
+                        <container id="cid9116151" type="Folder" label="Mixed Materials">23</container>
+                        <unitdate>[1973-1983]</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref40" level="series">
+                <did>
+                    <unittitle>Carole Rogel</unittitle>
+                    <unitid>Series 2</unitid>
+                    <unitdate normal="1973/2012" type="inclusive">1973-2012</unitdate>
+                </did>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>New York Conf. (April)</unittitle>
+                        <container id="cid9116150" type="Folder" label="Mixed Materials">1</container>
+                        <unitdate normal="1973/1973">1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Correspondence - Milwaukee Conf. (May)</unittitle>
+                        <container id="cid9116149" type="Folder" label="Mixed Materials">2</container>
+                        <unitdate normal="1974/1974">1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container id="cid9116148" type="Folder" label="Mixed Materials">3</container>
+                        <unitdate normal="1975/1975">1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>AAASS/SSS Conference Atlanta (Oct)</unittitle>
+                        <container id="cid9116147" type="Folder" label="Mixed Materials">4</container>
+                        <unitdate normal="1975/1975">1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Correspondence MidWest Slavic Conf Chicago (May)</unittitle>
+                        <container id="cid9116146" type="Folder" label="Mixed Materials">5</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Correspondence AAASS/SSS Conf St. Louis (Oct)</unittitle>
+                        <container id="cid9116145" type="Folder" label="Mixed Materials">6</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Corresp + Conf. Ann Arbor (MidWest May) Washington (AAASS/SSS/Oct)</unittitle>
+                        <container id="cid9116144" type="Folder" label="Mixed Materials">7</container>
+                        <unitdate normal="1977/1977">1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Correspondence NY City Conf. Minor Slavic Lang; Nat'lities Papers</unittitle>
+                        <container id="cid9116143" type="Folder" label="Mixed Materials">8</container>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Corresp New Haven AAASS/SSS Conf. (Oct)</unittitle>
+                        <container id="cid9116142" type="Folder" label="Mixed Materials">9</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Correspondence AAASS/SSS Kansas (Oct)</unittitle>
+                        <container id="cid9116141" type="Folder" label="Mixed Materials">10</container>
+                        <unitdate normal="1983/1983">1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Correspondence Rogel (President) SSS</unittitle>
+                        <container id="cid9116140" type="Folder" label="Mixed Materials">11</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Chicago (Mar) 400 Yrs of S. Slav Prot. Ref.</unittitle>
+                        <container id="cid9116139" type="Folder" label="Mixed Materials">12</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>AAASS/SSS New York (Nov)</unittitle>
+                        <container id="cid9116138" type="Folder" label="Mixed Materials">13</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Correspondence Rogel (President)</unittitle>
+                        <container id="cid9116137" type="Folder" label="Mixed Materials">14</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>ICSEES/AAASS/SSS Conf. Washington (Oct 30-Nov 3) - Panels - Business</unittitle>
+                        <container id="cid9116136" type="Folder" label="Mixed Materials">15</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Correspondence Rogel (President)</unittitle>
+                        <container id="cid9116135" type="Folder" label="Mixed Materials">16</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Conference AAASS/SSS New Orleans (Nov)</unittitle>
+                        <container id="cid9116134" type="Folder" label="Mixed Materials">17</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Correspondence Rogel (President)</unittitle>
+                        <container id="cid9116133" type="Folder" label="Mixed Materials">18</container>
+                        <unitdate normal="1987/1987">1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Conference AAASS/SSS Boston (Nov)</unittitle>
+                        <container id="cid9116132" type="Folder" label="Mixed Materials">19</container>
+                        <unitdate normal="1987/1987">1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Correspondence Rogel (President)</unittitle>
+                        <container id="cid9116131" type="Folder" label="Mixed Materials">20</container>
+                        <unitdate normal="1988/1988">1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Conference (MidWest Slavic/SSS 15th Anniv.) Bloomington (March)</unittitle>
+                        <container id="cid9116130" type="Folder" label="Mixed Materials">21</container>
+                        <unitdate normal="1988/1988">1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Conference: BLED (May) Corresp: re Cooperation w. Slovene Academics (Necak, etc.)</unittitle>
+                        <container id="cid9116129" type="Folder" label="Mixed Materials">22</container>
+                        <unitdate normal="1988/1988">1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Conference (AAASS/SSS) Hawaii (Nov)</unittitle>
+                        <container id="cid9116128" type="Folder" label="Mixed Materials">23</container>
+                        <unitdate normal="1988/1988">1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Correspondence Rogel (President)</unittitle>
+                        <container id="cid9116127" type="Folder" label="Mixed Materials">24</container>
+                        <unitdate normal="1989/1989">1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Hocevar Festschrift</unittitle>
+                        <container id="cid9116126" type="Folder" label="Mixed Materials">25</container>
+                        <unitdate normal="1989/1989">1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Conference AAASS/SSS Chicago (Nov)</unittitle>
+                        <container id="cid9116125" type="Folder" label="Mixed Materials">26</container>
+                        <unitdate normal="1989/1989">1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Correspondence Rogel (President)</unittitle>
+                        <container id="cid9116124" type="Folder" label="Mixed Materials">27</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Conferences Harrogate ICSEES/SSS (July) Washington AAASS/SSS (Oct)</unittitle>
+                        <container id="cid9116123" type="Folder" label="Mixed Materials">28</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>A.S.I.S.1991 (labeled accordion file containing six folders - only one labeled)</unittitle>
+                        <container id="cid9116122" type="Folder" label="Mixed Materials">29</container>
+                        <unitdate normal="1991/1991">1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>American Scholars for an Independent Slovenia: Records</unittitle>
+                        <container id="cid9116121" type="Folder" label="Mixed Materials">30</container>
+                        <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Corresp + Conf (AAASS/SSS) Miami (Nov)</unittitle>
+                        <container id="cid9116120" type="Folder" label="Mixed Materials">31</container>
+                        <unitdate normal="1991/1991">1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Correspondence Conference: Phoenix AAASS/SSS (Nov)</unittitle>
+                        <container id="cid9116119" type="Folder" label="Mixed Materials">32</container>
+                        <unitdate normal="1992/1992">1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Conferences: Hawaii (AAASS/SSS) Nov Toronto (ATSEEL) Dec.</unittitle>
+                        <container id="cid9116118" type="Folder" label="Mixed Materials">33</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Correspondence (Rogel) Conference (AAA/SSS) Philadelphia (Nov)</unittitle>
+                        <container id="cid9116117" type="Folder" label="Mixed Materials">34</container>
+                        <unitdate normal="1994/1994">1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>Correspondence (Rogel) Conference (AAASS/SSS) Washington (Oct)</unittitle>
+                        <container id="cid9116116" type="Folder" label="Mixed Materials">35</container>
+                        <unitdate normal="1995/1995">1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Correspondence/Rogel Conference AAASS/SSS Boston (Nov)</unittitle>
+                        <container id="cid9116115" type="Folder" label="Mixed Materials">36</container>
+                        <unitdate normal="1996/1996">1996</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Correspondence (Rogel) Conference: Seattle AAASS/SSS (Nov.)</unittitle>
+                        <container id="cid9116114" type="Folder" label="Mixed Materials">37</container>
+                        <unitdate normal="1997/1997">1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>SSS Correspondence &amp; Conferences Rogel</unittitle>
+                        <container id="cid9116113" type="Folder" label="Mixed Materials">38</container>
+                        <unitdate normal="1998/1998">1998</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Accordion file labeled "1998/99 crisis and afternath"</unittitle>
+                        <container id="cid9116112" type="Folder" label="Mixed Materials">39</container>
+                        <unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Correspondence (Rogel) Conf.: Boca Raton AAASS/SSS - 25th anniv. (Sept.)</unittitle>
+                        <container id="cid9116111" type="Folder" label="Mixed Materials">40</container>
+                        <unitdate normal="1998/1998">1998</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>Corresp./Rogel Conf: St. Louis AAASS/SSS (Nov)</unittitle>
+                        <container id="cid9116110" type="Folder" label="Mixed Materials">41</container>
+                        <unitdate normal="1999/1999">1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Corresp./Rogel Conf: Denver AAASS/SSS (Nov)</unittitle>
+                        <container id="cid9116109" type="Folder" label="Mixed Materials">42</container>
+                        <unitdate normal="2000/2000">2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Corresp./Rogel Conf: Crystal City AAASS/SSS (Nov)</unittitle>
+                        <container id="cid9116108" type="Folder" label="Mixed Materials">43</container>
+                        <unitdate normal="2001/2001">2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Corresp./Rogel Conf: Pittsburgh AAASS/SSS (Nov)</unittitle>
+                        <container id="cid9116107" type="Folder" label="Mixed Materials">44</container>
+                        <unitdate normal="2002/2002">2002</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Corresp./Rogel Conf: Toronto AAASS/SSS (Nov)</unittitle>
+                        <container id="cid9116106" type="Folder" label="Mixed Materials">45</container>
+                        <unitdate normal="2003/2003">2003</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Conference Boston (AAASS/SSS) (Dec)</unittitle>
+                        <container id="cid9116105" type="Folder" label="Mixed Materials">46</container>
+                        <unitdate normal="2004/2004">2004</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Corresp./Rogel Conf: Stalt Lake City AAASS/SSS (Nov)</unittitle>
+                        <container id="cid9116104" type="Folder" label="Mixed Materials">47</container>
+                        <unitdate normal="2005/2005">2005</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>Corresp./Rogel Conf: Washington AAASS/SSS (Nov)</unittitle>
+                        <container id="cid9116103" type="Folder" label="Mixed Materials">48</container>
+                        <unitdate normal="2006/2006">2006</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Corresp./Rogel Conf: New Orleans AAASS/SSS (Nov)</unittitle>
+                        <container id="cid9116102" type="Folder" label="Mixed Materials">49</container>
+                        <unitdate normal="2007/2007">2007</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Corresp./Rogel Conf: Philadelphia AAASS/SSS (Nov)</unittitle>
+                        <container id="cid9116101" type="Folder" label="Mixed Materials">50</container>
+                        <unitdate normal="2008/2008">2008</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>Corresp./Rogel Conf: Boston AAASS/SSS (Nov)</unittitle>
+                        <container id="cid9116100" type="Folder" label="Mixed Materials">51</container>
+                        <unitdate normal="2009/2009">2009</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref92" level="series">
+                <did>
+                    <unittitle>Henry R. Cooper</unittitle>
+                    <unitid>Series 3</unitid>
+                    <unitdate normal="1979/2001" type="inclusive">1979-2001</unitdate>
+                </did>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>SS 6/1-2 Sales</unittitle>
+                        <container id="cid9116099" type="Folder" label="Mixed Materials">1</container>
+                        <unitdate>[1979-2001]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>SSS Presidencey</unittitle>
+                        <container id="cid9116098" type="Folder" label="Mixed Materials">2</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>SSS Finance Committee</unittitle>
+                        <container id="cid9116097" type="Folder" label="Mixed Materials">3</container>
+                        <unitdate>[1979-2001]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>Slov. Studies 1:1</unittitle>
+                        <container id="cid9116096" type="Folder" label="Mixed Materials">4</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>SSS - Ongoing Business</unittitle>
+                        <container id="cid9116095" type="Folder" label="Mixed Materials">5</container>
+                        <unitdate>[1979-2001]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>S.S.S. Future Plans</unittitle>
+                        <container id="cid9116094" type="Folder" label="Mixed Materials">6</container>
+                        <unitdate>[1979-2001]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>SSS - Documents</unittitle>
+                        <container id="cid9116093" type="Folder" label="Mixed Materials">7</container>
+                        <unitdate>[1990-?]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>SSS</unittitle>
+                        <container id="cid9116092" type="Folder" label="Mixed Materials">8</container>
+                        <unitdate normal="2000/2000">2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>SSS</unittitle>
+                        <container id="cid9116091" type="Folder" label="Mixed Materials">9</container>
+                        <unitdate normal="2001/2001">2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>Society for Slovene Studies</unittitle>
+                        <container id="cid9116090" type="Folder" label="Mixed Materials">10</container>
+                        <unitdate>1997-?</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>SSS Exec Commit Business Meeting</unittitle>
+                        <container id="cid9116089" type="Folder" label="Mixed Materials">11</container>
+                        <unitdate normal="1999/1999">1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>SSS</unittitle>
+                        <container id="cid9116088" type="Folder" label="Mixed Materials">12</container>
+                        <unitdate normal="1999/1999">1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Slovene Studies Center</unittitle>
+                        <container id="cid9116087" type="Folder" label="Mixed Materials">13</container>
+                        <unitdate>[1999-2001]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>S.S.S. Addresses + Mailing List</unittitle>
+                        <container id="cid9116086" type="Folder" label="Mixed Materials">14</container>
+                        <unitdate normal="1999/1999">1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Book: Who's Who of Slovene descent in the United States</unittitle>
+                        <container id="cid9116085" type="Folder" label="Mixed Materials">15</container>
+                        <unitdate normal="1995/1995">1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>American-Slovene Congress</unittitle>
+                        <container id="cid9116084" type="Folder" label="Mixed Materials">16</container>
+                        <unitdate>[1979-2001]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>American Scholars for an Independent Slovenia, Inc.</unittitle>
+                        <container id="cid9116083" type="Folder" label="Mixed Materials">17</container>
+                        <unitdate>1990-?</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>SSS General</unittitle>
+                        <container id="cid9116082" type="Folder" label="Mixed Materials">18</container>
+                        <unitdate>[1979-2001]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>Society for Slovene Studies Miscellaneous</unittitle>
+                        <container id="cid9116081" type="Folder" label="Mixed Materials">19</container>
+                        <unitdate>[1979-2001]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>SSS - Panels</unittitle>
+                        <container id="cid9116080" type="Folder" label="Mixed Materials">20</container>
+                        <unitdate>[1990-1995]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Slovene Studies</unittitle>
+                        <container id="cid9116079" type="Folder" label="Mixed Materials">21</container>
+                        <unitdate>[1979-2001]</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref114" level="series">
+                <did>
+                    <unittitle>Tom Priestly</unittitle>
+                    <unitid>Series 4</unitid>
+                    <unitdate normal="1985/1998" type="inclusive">1985-1998</unitdate>
+                </did>
+                <c02 id="ref115" level="item">
+                    <did>
+                        <unittitle>CD: SSS Archive</unittitle>
+                        <unitdate>[1985-1998]</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref116" level="series">
+                <did>
+                    <unittitle>John K. Cox</unittitle>
+                    <unitid>Series 5</unitid>
+                    <unitdate normal="1980/2008" type="inclusive">1980-2008</unitdate>
+                </did>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>SSS Membership Lists</unittitle>
+                        <container id="cid9116078" type="Folder" label="Mixed Materials">1</container>
+                        <unitdate normal="1990/2007" type="inclusive">1990-2007</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>S.S.S. - Membership Lists</unittitle>
+                        <container id="cid9116077" type="Folder" label="Mixed Materials">2</container>
+                        <unitdate>1980s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>SSS: Old Memberships rec'd from John Cox - accordion file</unittitle>
+                        <container id="cid9116076" type="Folder" label="Mixed Materials">3</container>
+                        <unitdate>pre-1998</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>SSS - Treasurer's Records</unittitle>
+                        <container id="cid9116075" type="Folder" label="Mixed Materials">4</container>
+                        <unitdate>Feb. 1996-Oct. 1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>Ballots Constitutional Amendments</unittitle>
+                        <container id="cid9116074" type="Folder" label="Mixed Materials">5</container>
+                        <unitdate>6/2008</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref122" level="series">
+                <did>
+                    <unittitle>Metod Milac</unittitle>
+                    <unitid>Series 6</unitid>
+                    <unitdate normal="1979/2009" type="inclusive">1979-2009</unitdate>
+                </did>
+                <c02 id="ref123" level="file">
+                    <did>
+                        <unittitle>SSS Program Coordinator</unittitle>
+                        <container id="cid9116073" type="Folder" label="Mixed Materials">1</container>
+                        <unitdate normal="1979/1984" type="inclusive">1979-1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>Secretary</unittitle>
+                        <container id="cid9116072" type="Folder" label="Mixed Materials">2</container>
+                        <unitdate normal="1996/1999" type="inclusive">1996-1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>SSS Center for Slovene Studies partial documentation, President</unittitle>
+                        <container id="cid9116071" type="Folder" label="Mixed Materials">3</container>
+                        <unitdate normal="2000/2006" type="inclusive">2000-2006</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>President's papers</unittitle>
+                        <container id="cid9116070" type="Folder" label="Mixed Materials">4</container>
+                        <unitdate normal="2000/2006" type="inclusive">2000-2006</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>President's papers - additions</unittitle>
+                        <container id="cid9116069" type="Folder" label="Mixed Materials">5</container>
+                        <unitdate normal="2000/2006" type="inclusive">2000-2006</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>SSS Program Coordinator 1979-1984, Secretary 1996-1999, President 2000-2006</unittitle>
+                        <container id="cid9116068" type="Folder" label="Mixed Materials">6</container>
+                        <unitdate normal="1979/2006" type="inclusive">1979-2006</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>Salt Lake City</unittitle>
+                        <container id="cid9116067" type="Folder" label="Mixed Materials">7</container>
+                        <unitdate normal="2005/2005">2005</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>SAZU Slovenska drustva</unittitle>
+                        <container id="cid9116066" type="Folder" label="Mixed Materials">8</container>
+                        <unitdate normal="2005/2005">2005</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>Suhadolnik, Alenda, Consul General, New York</unittitle>
+                        <container id="cid9116065" type="Folder" label="Mixed Materials">9</container>
+                        <unitdate normal="2005/2005">2005</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>Toronto</unittitle>
+                        <container id="cid9116064" type="Folder" label="Mixed Materials">10</container>
+                        <unitdate normal="2003/2003">2003</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="file">
+                    <did>
+                        <unittitle>Velikonja, Joze</unittitle>
+                        <container id="cid9116063" type="Folder" label="Mixed Materials">11</container>
+                        <unitdate normal="2006/2006">2006</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Vodopivec, Peter</unittitle>
+                        <container id="cid9116062" type="Folder" label="Mixed Materials">12</container>
+                        <unitdate>2006?</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>SSS Washington [includes newspaper issue of 
+                            <title render="italic">Ameriska Domovina</title> (2 Nov 2006) about conference in Washington]</unittitle>
+                        <container id="cid9116061" type="Folder" label="Mixed Materials">13</container>
+                        <unitdate normal="2006/2006">2006</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Zbogar, Samuel, Ambassador</unittitle>
+                        <container id="cid9116060" type="Folder" label="Mixed Materials">14</container>
+                        <unitdate>2005-?</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Zigon, Zvone, Consul General [includes newspaper issue of 
+                            <title render="italic">Ameriska Domovina </title>(19 Apr 2007)]</unittitle>
+                        <container id="cid9116059" type="Folder" label="Mixed Materials">15</container>
+                        <unitdate normal="2007/2007">2007</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>Pogacar, Tim</unittitle>
+                        <container id="cid9116058" type="Folder" label="Mixed Materials">16</container>
+                        <unitdate>2000-2006?</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>SSS President</unittitle>
+                        <container id="cid9116057" type="Folder" label="Mixed Materials">17</container>
+                        <unitdate normal="2000/2006" type="inclusive">2000-2006</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Publicity</unittitle>
+                        <container id="cid9116056" type="Folder" label="Mixed Materials">18</container>
+                        <unitdate>[2000-2006?]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Reindl, Donald</unittitle>
+                        <container id="cid9116055" type="Folder" label="Mixed Materials">19</container>
+                        <unitdate>[2000-2006?]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Rogel, Carole</unittitle>
+                        <container id="cid9116054" type="Folder" label="Mixed Materials">20</container>
+                        <unitdate>[2000-2006?]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>Ryavec, Karl W.; rusinow, Dennison</unittitle>
+                        <container id="cid9116053" type="Folder" label="Mixed Materials">21</container>
+                        <unitdate>[2000-2006?]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>AAASS</unittitle>
+                        <container id="cid9116052" type="Folder" label="Mixed Materials">22</container>
+                        <unitdate>[2000-2006?]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>Apenc, Veronica</unittitle>
+                        <container id="cid9116051" type="Folder" label="Mixed Materials">23</container>
+                        <unitdate>[2000-2006?]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Boston</unittitle>
+                        <container id="cid9116050" type="Folder" label="Mixed Materials">24</container>
+                        <unitdate normal="2009/2009">2009</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>Central Europe</unittitle>
+                        <container id="cid9116049" type="Folder" label="Mixed Materials">25</container>
+                        <unitdate>[2000-2009?]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>Cooper, Henry R.</unittitle>
+                        <container id="cid9116048" type="Folder" label="Mixed Materials">26</container>
+                        <unitdate>[2000-2009?]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Derdzinski, Joseph; Derbyshire, Bill</unittitle>
+                        <container id="cid9116047" type="Folder" label="Mixed Materials">27</container>
+                        <unitdate>[2000-2009?]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>Golez, Marjetka</unittitle>
+                        <container id="cid9116046" type="Folder" label="Mixed Materials">28</container>
+                        <unitdate>[2000-2009?]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>Kapsch, Stefan</unittitle>
+                        <container id="cid9116045" type="Folder" label="Mixed Materials">29</container>
+                        <unitdate>[2000-2009?]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Lemenc, Mari Arbo</unittitle>
+                        <container id="cid9116044" type="Folder" label="Mixed Materials">30</container>
+                        <unitdate>[2000-2009?]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="file">
+                    <did>
+                        <unittitle>Lencek, Rado [includes newspaper issue of 
+                            <title render="italic">Ameriska Domovina</title> (24 Feb. 2005) with Lenchek obituary]</unittitle>
+                        <container id="cid9116043" type="Folder" label="Mixed Materials">30</container>
+                        <unitdate normal="2005/2005">2005</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>New Orleans [includes newspaper clipping of 
+                            <title render="italic">Ameriska Domovina</title> (7 Feb. 2008) with article about the conference]</unittitle>
+                        <container id="cid9116042" type="Folder" label="Mixed Materials">31</container>
+                        <unitdate normal="2008/2008">2008</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Philadelphia</unittitle>
+                        <container id="cid9116041" type="Folder" label="Mixed Materials">32</container>
+                        <unitdate normal="2008/2008">2008</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>Prinat-Greenberg, Marta</unittitle>
+                        <container id="cid9116040" type="Folder" label="Mixed Materials">33</container>
+                        <unitdate>[2000-2009?]</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref157" level="series">
+                <did>
+                    <unittitle>Newsletters, No. 1-69. Recent issues available www.slovenestudies.com</unittitle>
+                    <unitid>Series 7</unitid>
+                    <unitdate normal="1973/2011" type="inclusive">1973-2011</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref158" level="series">
+                <did>
+                    <unittitle>Publications</unittitle>
+                    <unitid>Series 8</unitid>
+                    <unitdate normal="1978/2011" type="inclusive">1978-2011</unitdate>
+                </did>
+                <c02 id="ref159" level="item">
+                    <did>
+                        <unittitle>Susel, Rudolph M., ed. assisted by Toussaint Hocevar and Carole Rogel. 
+                            <title render="italic">Papers in Slovene Studies 1977</title>. NY: Published by Society for Slovene Studies, 1978.</unittitle>
+                        <container id="cid9116039" type="Volume" label="Mixed Materials">1</container>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="item">
+                    <did>
+                        <unittitle>Cooper, Henry R., Jr., ed. 
+                            <title render="italic">Papers in Slovene Studies</title> 1978. NY: Published by Society for Slovene Studies, 1981.</unittitle>
+                        <container id="cid9116038" type="Volume" label="Mixed Materials">2</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>1.1, 1.2</unittitle>
+                        <container id="cid9116037" type="Volume" label="Mixed Materials">3</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref162" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>2.1, 2.2</unittitle>
+                        <container id="cid9116036" type="Volume" label="Mixed Materials">4</container>
+                        <unitdate normal="1980/1980">1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref163" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>3.1, 3.2</unittitle>
+                        <container id="cid9116035" type="Volume" label="Mixed Materials">5</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref164" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>4.1, 4.2</unittitle>
+                        <container id="cid9116034" type="Volume" label="Mixed Materials">6</container>
+                        <unitdate normal="1982/1982">1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref165" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>5.1, 5.2</unittitle>
+                        <container id="cid9116033" type="Volume" label="Mixed Materials">7</container>
+                        <unitdate normal="1983/1983">1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>6.1-2</unittitle>
+                        <container id="cid9116032" type="Volume" label="Mixed Materials">8</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref167" level="item">
+                    <did>
+                        <unittitle>Cooper, Henry R., Jr., ed. Four Hundred Years of the South Slavic Protestant Reformation, 1584-1984. 
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>7.1-2</unittitle>
+                        <container id="cid9116031" type="Volume" label="Mixed Materials">9</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref168" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>7.1-.2</unittitle>
+                        <container id="cid9116030" type="Volume" label="Mixed Materials">10</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref169" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>8.1. Problems of European Minorities: The Slovene Case. Special III World Congress Issue.</unittitle>
+                        <container id="cid9116029" type="Volume" label="Mixed Materials">11</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref170" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>8.2. Mary Molek Memorial Issue.</unittitle>
+                        <container id="cid9116028" type="Volume" label="Mixed Materials">12</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref171" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>9.1-2</unittitle>
+                        <container id="cid9116027" type="Volume" label="Mixed Materials">13</container>
+                        <unitdate normal="1987/1987">1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref172" level="item">
+                    <did>
+                        <unittitle>Priestly, Tom M.S., Olga B. Nedeljkovic, and Henry R. Cooper, Jr., eds. Lubi Slovenci: A Festschrift to Honor Rado L. Lencek on the Occasion of his Sixty-First Birthday, 3 October 1986. Published as 
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>9.1-2</unittitle>
+                        <container id="cid9116026" type="Volume" label="Mixed Materials">14</container>
+                        <unitdate normal="1987/1987">1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref173" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>10.1, 10.2</unittitle>
+                        <container id="cid9116025" type="Volume" label="Mixed Materials">15</container>
+                        <unitdate normal="1988/1988">1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref174" level="item">
+                    <did>
+                        <unittitle>Lokar, Ales, Warren F. Mazek, and Tom M.S. Priestly, ed. In Honor of the Memory of Toussaint S. Hocevar (1927-1987). Published as 
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>11.1-2</unittitle>
+                        <container id="cid9116024" type="Volume" label="Mixed Materials">16</container>
+                        <unitdate normal="1989/1989">1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref175" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>11.1-2</unittitle>
+                        <container id="cid9116023" type="Volume" label="Mixed Materials">17</container>
+                        <unitdate normal="1989/1989">1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref176" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>12.1, 12.2</unittitle>
+                        <container id="cid9116022" type="Volume" label="Mixed Materials">18</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref177" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>13.1, 13.2</unittitle>
+                        <container id="cid9116021" type="Volume" label="Mixed Materials">19</container>
+                        <unitdate normal="1991/1991">1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref178" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>14.1, 14.2</unittitle>
+                        <container id="cid9116020" type="Volume" label="Mixed Materials">20</container>
+                        <unitdate normal="1992/1992">1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref179" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>15.1-2</unittitle>
+                        <container id="cid9116019" type="Volume" label="Mixed Materials">21</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>16.1, 16.2 Note: Volume 16.1 contains the Cumulative Index with abstracts of 
+                            <title render="italic">Slovene Studies </title>1-15 and P
+                            <title render="italic">apers in Slovene Studies</title> 1975-1978</unittitle>
+                        <container id="cid9116018" type="Volume" label="Mixed Materials">22</container>
+                        <unitdate normal="1994/1994">1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>17.1-2</unittitle>
+                        <container id="cid9116017" type="Volume" label="Mixed Materials">23</container>
+                        <unitdate normal="1995/1995">1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref182" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>18.1, 18.2</unittitle>
+                        <container id="cid9116016" type="Volume" label="Mixed Materials">24</container>
+                        <unitdate normal="1996/1996">1996</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref183" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>19.1-2</unittitle>
+                        <container id="cid9116015" type="Volume" label="Mixed Materials">25</container>
+                        <unitdate normal="1997/1997">1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>20-21</unittitle>
+                        <container id="cid9116014" type="Volume" label="Mixed Materials">26</container>
+                        <unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref185" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>22.1-2</unittitle>
+                        <container id="cid9116013" type="Volume" label="Mixed Materials">27</container>
+                        <unitdate normal="2000/2000">2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref186" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies 23</title>.1-2</unittitle>
+                        <container id="cid9116012" type="Volume" label="Mixed Materials">28</container>
+                        <unitdate normal="2001/2001">2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref187" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>24.1-2</unittitle>
+                        <container id="cid9116011" type="Volume" label="Mixed Materials">29</container>
+                        <unitdate normal="2002/2002">2002</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref188" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>25.1-2</unittitle>
+                        <container id="cid9116010" type="Volume" label="Mixed Materials">30</container>
+                        <unitdate normal="2003/2003">2003</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref189" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>26.1-2</unittitle>
+                        <container id="cid9116009" type="Volume" label="Mixed Materials">31</container>
+                        <unitdate normal="2004/2004">2004</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref190" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>27.1-2</unittitle>
+                        <container id="cid9116008" type="Volume" label="Mixed Materials">32</container>
+                        <unitdate normal="2005/2005">2005</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref191" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>28.1-2</unittitle>
+                        <container id="cid9116007" type="Volume" label="Mixed Materials">33</container>
+                        <unitdate normal="2006/2006">2006</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref192" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>29.1-2</unittitle>
+                        <container id="cid9116006" type="Volume" label="Mixed Materials">34</container>
+                        <unitdate normal="2007/2007">2007</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref193" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>30.1, 30.2</unittitle>
+                        <container id="cid9116005" type="Volume" label="Mixed Materials">35</container>
+                        <unitdate normal="2008/2008">2008</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref194" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>31.1, 31.2</unittitle>
+                        <container id="cid9116004" type="Volume" label="Mixed Materials">37</container>
+                        <unitdate normal="2009/2009">2009</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref195" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>32.1-2</unittitle>
+                        <container id="cid9116003" type="Volume" label="Mixed Materials">38</container>
+                        <unitdate normal="2010/2010">2010</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Slovene Studies: Journal of The Society for Slovene Studies </title>33.1, 33.2</unittitle>
+                        <container id="cid9116002" type="Volume" label="Mixed Materials">39</container>
+                        <unitdate normal="2011/2011">2011</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref197" level="item">
+                    <did>
+                        <unittitle>Velikonja, Joseph, and Rado L. Lencek, comp. and eds. 
+                            <title render="italic">Who's Who of Slovene Descent in the United States: First Preliminary edition</title>. Seattle-New York Research and Documentation Society for Slovene Studies Institute on East Central Europe, Columbia University and Department of Geography, University of Washington.</unittitle>
+                        <container id="cid9116001" type="Volume" label="Mixed Materials">40</container>
+                        <unitdate normal="1992/1992">1992</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

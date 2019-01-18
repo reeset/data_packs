@@ -1,0 +1,2203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid url="https://library.osu.edu/finding-aids/ead/UA/RG.40.351.xml">2016-10-13</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Lawrence A. Brown Papers, 1963-2004
+                    <num>RG.40.351</num>
+                </titleproper>
+                <author>Finding aid prepared by Karen Glenn</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Ohio State University Libraries Special Collections</publisher>
+                <address>
+                    <addressline>1858 Neil Avenue</addressline>
+                    <addressline>Columbus, OH, 43210</addressline>
+                </address>
+                <date>2016 October</date>
+            </publicationstmt>
+            <seriesstmt>
+                <p>Catalog record needed.</p>
+            </seriesstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2017-05-23T09:50-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="recordgrp">
+        <did>
+            <unittitle>Lawrence A. Brown Papers</unittitle>
+            <unitid>RG.40.351</unitid>
+            <repository>
+                <corpname>Ohio State University Libraries Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>6.0 Cubic feet</extent>
+            </physdesc>
+            <unitdate>1963-2004</unitdate>
+            <physdesc id="ref268" label="Physical Description">(5) cartons</physdesc>
+            <langmaterial id="ref271" label="Language of Materials">English</langmaterial>
+            <abstract id="ref276" label="Abstract">The Lawrence A. Brown Papers contain Brown's published works and associated correspondence, mainly on urban geography research, from 1963-2004. Lawrence Brown was a professor and chair of the Department of Geography at Ohio State University.</abstract>
+            <origination label="creator">
+                <persname rules="rda" source="naf">Brown, Lawrence A., 1935-</persname>
+            </origination>
+        </did>
+        <arrangement id="ref2">
+            <head>Arrangement of Materials</head>
+            <p>Materials are arranged in the order received.</p>
+        </arrangement>
+        <acqinfo id="ref270">
+            <head>Acquisitions Information</head>
+            <p>Accession Number UA.2014.0228: Lawrence A. Brown, 2014</p>
+        </acqinfo>
+        <prefercite id="ref273">
+            <head>Preferred Citation</head>
+            <p>[identification of item], Lawrence A. Brown Papers, RG 40.351, Ohio State University Archives, Ohio State University</p>
+        </prefercite>
+        <accessrestrict id="ref3">
+            <head>Access to Materials</head>
+            <p>Materials in this collection are available for patron research, but may be used only in the University Archives Reading Room. Audiovisual materials may need a use copy produced before access is allowed. Some materials in this collection may be stored off-site, and are only available if requested 72 hours in advance of your visit. Contact the University Archives for more information.</p>
+        </accessrestrict>
+        <userestrict id="ref266">
+            <head>Use of Materials</head>
+            <p>Materials in this collection may be protected by copyright, and are made available for research and educational purposes. In general, the OSU Libraries do not own the copyright for materials from our collections and cannot grant copyright permissions for these materials. The user is responsible for making a final determination of copyright status. If copyright protection applies, permission must be obtained from the copyright holder to reuse, publish, or reproduce the work beyond the bounds of fair use or other exceptions to the law. Works in the public domain are not protected by copyright and do not require permission to use.</p>
+        </userestrict>
+        <bioghist id="ref272">
+            <head>Biographical Note</head>
+            <p>Lawrence A. Brown (1935-2014) was a professor and chair of the Department of Geography at Ohio State University. His scholarship interest focused on spatial processes of innovation diffusion, migration, mobility and urban and housing developments.</p>
+        </bioghist>
+        <scopecontent id="ref275">
+            <head>Scope and Contents</head>
+            <p>The Lawrence A. Brown Papers contain Brown's published works and associated correspondence, mainly on urban geography research, from 1963-2004.</p>
+        </scopecontent>
+        <relatedmaterial id="ref274">
+            <head>Related Materials</head>
+            <list type="deflist">
+                <defitem>
+                    <label>Ohio State University Archives Biographical File</label>
+                    <item>Lawrence A. Brown</item>
+                </defitem>
+            </list>
+        </relatedmaterial>
+        <processinfo id="ref277">
+            <head>Processing Information</head>
+            <p>Finding aid written by Karen Glenn, 2016 October</p>
+        </processinfo>
+        <controlaccess>
+            <persname rules="rda" source="naf">Brown, Lawrence A., 1935-</persname>
+            <corpname rules="rda" source="naf">Ohio State University--Faculty.</corpname>
+            <corpname rules="rda" source="naf">Ohio State University--History.</corpname>
+            <corpname rules="rda" source="naf">Ohio State University. Department of Geography.</corpname>
+            <subject source="lcsh">College teachers--Ohio--Columbus</subject>
+            <subject source="lcsh">Urban geography--Research--Ohio--Columbus</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref4" level="series">
+                <did>
+                    <unittitle>Accession Number UA.2014.0228</unittitle>
+                    <physdesc>
+                        <extent>6.0 Cubic feet</extent>
+                    </physdesc>
+                    <unitdate>1963-2004</unitdate>
+                    <physdesc id="ref267" label="Physical Description">(5) cartons</physdesc>
+                </did>
+                <c02 id="ref5" level="file">
+                    <did>
+                        <unittitle>The first assessment: research in geographic education</unittitle>
+                        <container id="cid2120992" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120992" type="Folder">1</container>
+                        <unitdate>1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>Newsletter of the Association of American Geographers</unittitle>
+                        <container id="cid2120991" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120991" type="Folder">2</container>
+                        <unitdate>1996-1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Gender, Migration, and the Organization of Work Under Economic Devolution: Ecuador 1982-1990</unittitle>
+                        <container id="cid2120990" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120990" type="Folder">3</container>
+                        <unitdate>1998</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>Urban system development, Ecuador's Amazon, Generalization. Frontiers in Regional Development</unittitle>
+                        <container id="cid2120989" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120989" type="Folder">4</container>
+                        <unitdate>1996</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>"Continuity and change in an Old Industrial region: The Ohio River Valley"</unittitle>
+                        <container id="cid2120988" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120988" type="Folder">5</container>
+                        <unitdate>1982 and 1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="file">
+                    <did>
+                        <unittitle>"The Uprooting of People, Migration, and Labor Force Experiences: Ecuador"</unittitle>
+                        <container id="cid2120987" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120987" type="Folder">6</container>
+                        <unitdate>1982 and 1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Frameworks of Urban System Evolution in Frontier Settings. Geography Research Forum</unittitle>
+                        <container id="cid2120986" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120986" type="Folder">7</container>
+                        <unitdate>1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Urban System Evolution in Frontier Settings. Geographic Review</unittitle>
+                        <container id="cid2120985" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120985" type="Folder">8</container>
+                        <unitdate>1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Frontier Migration as a Multi-Stage Phenomena. Papers in Regional Science</unittitle>
+                        <container id="cid2120984" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120984" type="Folder">9</container>
+                        <unitdate>1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Causes of Tropical Deforestation in Ecuador. World Development</unittitle>
+                        <container id="cid2120983" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120983" type="Folder">10</container>
+                        <unitdate>1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Complementary Perspective, Means of Understanding Regional Change: Frontier Settlement in Ecuador Amazon. Environment and Planning</unittitle>
+                        <container id="cid2120982" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120982" type="Folder">11</container>
+                        <unitdate>1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Innovation Diffusion: Retrospect and Prospect. Geography</unittitle>
+                        <container id="cid2120981" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120981" type="Folder">12</container>
+                        <unitdate>1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Migrant Fertility differentials: Ecuador. Geografiska Annaler B</unittitle>
+                        <container id="cid2120980" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120980" type="Folder">13</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Polar Reverse, Migration Shifts, Human Resource Profile: Venez</unittitle>
+                        <container id="cid2120979" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120979" type="Folder">14</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Module of Department Specialty of Population</unittitle>
+                        <container id="cid2120978" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120978" type="Folder">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Population Geography. Geography in America</unittitle>
+                        <container id="cid2120977" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120977" type="Folder">16</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Location, social Category, Individual Labor Market Experiences: Venezuela. International Regional Science Review</unittitle>
+                        <container id="cid2120976" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120976" type="Folder">17</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Reflections, Third World Devel. Economic Geography</unittitle>
+                        <container id="cid2120975" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120975" type="Folder">18</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Policy Aspect Development, Individual Mobil: Mig-Circ, Ecua Rural Sierra. Economic Geography</unittitle>
+                        <container id="cid2120974" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120974" type="Folder">19</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Development Related Context Effects, Individual Attribution, Migration: Venezuela. Demography</unittitle>
+                        <container id="cid2120973" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120973" type="Folder">20</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Migration, Human resource transfer, development context: Logit Analy, Venez</unittitle>
+                        <container id="cid2120972" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120972" type="Folder">21</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Structural tension, migration and development: A Case Study of Venezuela</unittitle>
+                        <container id="cid2120971" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120971" type="Folder">22</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>The field of family planning: A Review and New Conceptual Framework</unittitle>
+                        <container id="cid2120970" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120970" type="Folder">23</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Rural non-farm employment and migration: evidence from Costa Rica: Socio-Econ Plan. Sci.</unittitle>
+                        <container id="cid2120969" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120969" type="Folder">24</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Cross national tests of a 3rd world development-migration paradigm: w/part attention to Venezuela</unittitle>
+                        <container id="cid2120968" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120968" type="Folder">25</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Spatial variation in migrant processes and development. A Costa Rican Ex. Of Conv. Modeling Augmented by the Expan. Method: Demography</unittitle>
+                        <container id="cid2120967" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120967" type="Folder">26</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Rural destined migration in 3rd world settings: a neglected phenomenon? Regional Studies</unittitle>
+                        <container id="cid2120966" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120966" type="Folder">27</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Circulation and Migration in 3rd World Settings: A Comparison in Ecuador. Revista Geografica</unittitle>
+                        <container id="cid2120965" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120965" type="Folder">28</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>"The dissemination of public sector innovations with relevance to regional change in the United States" in The Regional Economic Impact of Technological Change</unittitle>
+                        <container id="cid2120964" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120964" type="Folder">29</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Migration in 3rd world settings, uneven development and conventional modeling: a case study of Costa Rica</unittitle>
+                        <container id="cid2120963" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120963" type="Folder">30</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Development Aspects of Migration in 3rd World Setting A Sim., With Implications for Urbaniza.</unittitle>
+                        <container id="cid2120962" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120962" type="Folder">31</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Development Related Context. Effects and Individual Attributes in 3rd World Migration. Processes a Venezuelan Ex.: Migration Development in Third World Settings #27</unittitle>
+                        <container id="cid2120961" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120961" type="Folder">32</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Circulation and Migration in Third World Settings: A comparison in Ecuador: Migration/Development In Third World Settings #26</unittitle>
+                        <container id="cid2120960" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120960" type="Folder">33</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Structural Tension, Migration, and Development: A Case Study of Venezuela: Migration/Development In Third World Settings #24</unittitle>
+                        <container id="cid2120959" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120959" type="Folder">34</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Rural-Non Farm Employment and Migration: Evidence From Costa Rica: Migration/Development In Third World Settings #23</unittitle>
+                        <container id="cid2120958" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120958" type="Folder">35</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Amplifications Toward A Third World Development-Migration Paradigm; Migration/Development In Third World Settings #22</unittitle>
+                        <container id="cid2120957" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120957" type="Folder">36</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Migration, Human Resource Transfers, and Development Contexts: Logit. Analysis of Venezuelan Data #21</unittitle>
+                        <container id="cid2120956" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120956" type="Folder">37</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Migration, Planned Growth, and Human Resource Variations Within Third World Urban Systems: A Venezuelan Study: Migration/Development In Third World Settings #20</unittitle>
+                        <container id="cid2120955" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120955" type="Folder">38</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>The Rural-Urban Interface in Third World Settings: A Discussion of Current Issues: Migration/Development In Third World Settings #17</unittitle>
+                        <container id="cid2120954" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120954" type="Folder">39</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Rural Destined Migration in Third World Settings: A Neglected Phenomenon: Migration/Development In Third World Settings #14</unittitle>
+                        <container id="cid2120953" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120953" type="Folder">40</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Development Effects Upon Migration in Third World Settings: Conventional Modeling with spatially Varying Parameters via the Expansion Method: Migration/Development In Third World Settings #13</unittitle>
+                        <container id="cid2120952" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120952" type="Folder">41</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Migration in Third World Settings, Uneven Development, and conventional Modeling: A Case Study of Costa Rica: Migration/Development In Third World Settings #12</unittitle>
+                        <container id="cid2120951" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120951" type="Folder">42</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Development Aspects of Migration in Third World Settings: A Model With Implications for Urbanization: Migration/Development In Third World Settings #6</unittitle>
+                        <container id="cid2120950" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120950" type="Folder">43</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Toward a Development Paradigm of Migration: with Particular Reference to Third World Settings: Migration/Development In Third World Settings #1</unittitle>
+                        <container id="cid2120949" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120949" type="Folder">44</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Data Resources for NSF-supported Study on the Interrelationships Between Migration and Development in Latin America</unittitle>
+                        <container id="cid2120948" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120948" type="Folder">45</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>The Location of Urban Populations Service Facilities: A Strategy and Its Application. Social Science Quarterly</unittitle>
+                        <container id="cid2120947" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120947" type="Folder">46</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Diffusion in a Growth Pole Context: A Comment. Proceedings of the commission on Regional Aspects of Economic Development of the IGU, Vol. 2: Spatial Aspects of the Development Process</unittitle>
+                        <container id="cid2120946" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120946" type="Folder">47</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Innovation in a Developing Economy: A Meso Scale View. The Journal Revista Geografica</unittitle>
+                        <container id="cid2120945" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120945" type="Folder">48</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Diffusion Waves Within the context of Regional Economic Development. Journal of Regional Science</unittitle>
+                        <container id="cid2120944" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120944" type="Folder">49</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Simmar: A Markov Chain Based Program for the Diffusion of Innovation. Computer Applications</unittitle>
+                        <container id="cid2120943" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120943" type="Folder">50</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>The Market and Infrastructure Context of Adoption: A Spatial Perspective on Diffusion of Innovation. Economic Geography</unittitle>
+                        <container id="cid2120942" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120942" type="Folder">51</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>The Diffusion of Cable Television in Ohio: A Case Study of Diffusion Agency Location Patterns and Processes of the Polynuclear Type. Bulletin of Business Research The Ohio State University</unittitle>
+                        <container id="cid2120941" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120941" type="Folder">52</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>The Diffusion of Cable Television in Ohio: A Case Study of Diffusion Agency Location Patterns and Processes of the Polynuclear Type. Economic Geography</unittitle>
+                        <container id="cid2120940" type="Box" label="Mixed Materials">UA.2014.0228.0001</container>
+                        <container parent="cid2120940" type="Folder">53</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Diffusion Dynamics: A Review and Revision of the Quantitative Theory of the Spatial Diffusion of Innovation</unittitle>
+                        <container id="cid2120939" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120939" type="Folder">1</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Diffusion Processes and Location: A Conceptual Framework and Bibliography</unittitle>
+                        <container id="cid2120938" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120938" type="Folder">2</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Perspectives on Urban Spatial Systems</unittitle>
+                        <container id="cid2120937" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120937" type="Folder">3</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Studies in Spatial Diffusion Processes, 1: Empirical Considerations.</unittitle>
+                        <container id="cid2120936" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120936" type="Folder">4</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Ph.D Dissertation: Diffusion Dynamics: A Review and Revision of the Quantitative Theory of the Spatial Diffusion of Innovation</unittitle>
+                        <container id="cid2120935" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120935" type="Folder">5</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Towards a Development Paradigm of Migration with Particular Reference to Third World Settings: Migration Decision Making</unittitle>
+                        <container id="cid2120934" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120934" type="Folder">6</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>A Simulation Model of Migration and Development: Modeling and Simulation</unittitle>
+                        <container id="cid2120933" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120933" type="Folder">7</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Towards a Development Paradigm of Migration with Particular Reference to Third World Settings: Terra</unittitle>
+                        <container id="cid2120932" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120932" type="Folder">8</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>On the Interrelationships Between Development and Migration Processes: Geographic Research on Latin America</unittitle>
+                        <container id="cid2120931" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120931" type="Folder">9</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Information Source Usage in the Migration Decision: Socio-Economic Planning Sciences</unittitle>
+                        <container id="cid2120930" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120930" type="Folder">10</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Place Utility, Attribute Tradeoff, and Choice Behavior in an Intra-Urban Migration Context: Socio Economic Planning Sciences</unittitle>
+                        <container id="cid2120929" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120929" type="Folder">11</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>A Spatial View of Intra-Urban Migration Search Behavior: Socio-Economic Planning Sciences</unittitle>
+                        <container id="cid2120928" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120928" type="Folder">12</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Market Penetration and Locational Conflict in Franchise Systems: Decision Sciences</unittitle>
+                        <container id="cid2120927" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120927" type="Folder">13</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Perspectives on Innovation Diffusion: Dissemination and Utilization of Alcohol Information</unittitle>
+                        <container id="cid2120926" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120926" type="Folder">14</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Innovation Diffusion and Entrepreneurial Activity in a Spatial Context: Research in Marketing</unittitle>
+                        <container id="cid2120925" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120925" type="Folder">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>The Innovation Diffusion Process in a Public Policy Context: Innovation Research and Public Policy.</unittitle>
+                        <container id="cid2120924" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120924" type="Folder">16</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Simulating the Spatial Diffusion of Innovation: A Gaming Experimental Approach: Socio-Economic Planning Sciences</unittitle>
+                        <container id="cid2120923" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120923" type="Folder">17</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>Innovation Diffusion and Development in a Third World Setting: the Cooperative Movement in Sierra Leone. Social Science Quarterly</unittitle>
+                        <container id="cid2120922" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120922" type="Folder">18</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>"The Innovation Diffusion Process in a Public Policy Context" The Diffusion of Innovations: An Assessment.</unittitle>
+                        <container id="cid2120921" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120921" type="Folder">19</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Pesquisas de Difusao em Geofrafia. Tendencias Atuais Na Geografia Urbano/Regional: Teorizacao E Quantificacao</unittitle>
+                        <container id="cid2120920" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120920" type="Folder">20</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>The Diffusion of Community Innovations: A Conceptualization and Empirical Analysis. Urban Affairs Quarterly</unittitle>
+                        <container id="cid2120919" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120919" type="Folder">21</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Spatial Diffusion of Innovation: A Gaming Approach. Simulation and Games</unittitle>
+                        <container id="cid2120918" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120918" type="Folder">22</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Promar: The New Product Marketing Game. Computer Applications</unittitle>
+                        <container id="cid2120917" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120917" type="Folder">23</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>Strategies for the Promotion and Diffusion of Consumer Goods and Services: An Overview. International Regional Science Review.</unittitle>
+                        <container id="cid2120916" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120916" type="Folder">24</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Diffusion Agency Strategies and Innovation Diffusion: A Case Study of the Eastern Ohio Resource Development Center. Regional Science Perspectives</unittitle>
+                        <container id="cid2120915" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120915" type="Folder">25</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Place Attributes in a Migration Decision Context. Environment and Planning</unittitle>
+                        <container id="cid2120914" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120914" type="Folder">26</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>The Adoption of Credit Card Services by Banks: A Case Study of Innovation Diffusion. Bulletin of Business Research The Ohio State University</unittitle>
+                        <container id="cid2120913" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120913" type="Folder">27</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Comments on Landscape Evolution and Diffusion Processes. Regional Studies</unittitle>
+                        <container id="cid2120912" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120912" type="Folder">28</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>The Diffusion of a Population Related Innovation: the Planned Parenthood Affiliate S.S.Q.</unittitle>
+                        <container id="cid2120911" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120911" type="Folder">29</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Awareness space Characteristics in a Migration context. Environment and Behavior.</unittitle>
+                        <container id="cid2120910" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120910" type="Folder">30</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>Acquaintance Circles and Communication: An Exploration of Hypotheses Relating to Innovation Adoption. Professional Geographer</unittitle>
+                        <container id="cid2120909" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120909" type="Folder">31</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Cones of Resolution in Spatial Diffusion Studies: A perspective. Professional Geographer</unittitle>
+                        <container id="cid2120908" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120908" type="Folder">32</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Adopter Categories in a Spatial Context: Alternative Explanations for an Empirical Regularity. Rural Sociology</unittitle>
+                        <container id="cid2120907" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120907" type="Folder">33</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>"Regional Changes as the Interplay of Global and Local" The Korean Journal of Applied Geography</unittitle>
+                        <container id="cid2120906" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120906" type="Folder">34</container>
+                        <unitdate>1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>"Development Models, Economic Adjustment, and Occupational Composition: Ecuador 1982-90" International Regional Science Review</unittitle>
+                        <container id="cid2120905" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120905" type="Folder">35</container>
+                        <unitdate>1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>"Economic Restructuring and Migration in an Old Industrial Region" Migration and Restructuring in the U.S.: A Geographic Perspective</unittitle>
+                        <container id="cid2120904" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120904" type="Folder">36</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>"Macrolevel Theory and Local-level Inequality: Industrial Structure, Institutional Arrangements…" Annals of the Association of American Geographers</unittitle>
+                        <container id="cid2120903" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120903" type="Folder">37</container>
+                        <unitdate>1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>"Employment in boom towns of the Ecuador Amazon" Yearbook of the Association of Pacific Coast Geographers</unittitle>
+                        <container id="cid2120902" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120902" type="Folder">38</container>
+                        <unitdate>1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>"Development context, Regional Differences Between Young Women, and Fertility: Ecuadorian Amazon" Social Forces</unittitle>
+                        <container id="cid2120901" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120901" type="Folder">39</container>
+                        <unitdate>1998</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>"Old Industrial Regions and the Political Economy of Development" Rural Restructuring in Local and Global Contexts</unittitle>
+                        <container id="cid2120900" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120900" type="Folder">40</container>
+                        <unitdate>2003</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>"GIS/SA Interface for Substantive Research(ers): A Critical Need" Journal of Geographical Systems</unittitle>
+                        <container id="cid2120899" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120899" type="Folder">41</container>
+                        <unitdate>2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>"Urban System Evaluation at the Ecuador Amazon Frontier" Geographical Review</unittitle>
+                        <container id="cid2120898" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120898" type="Folder">42</container>
+                        <unitdate>2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>"Urban Development at the Ecuador Amazon Frontier: Boom Towns or Gloom Towns?" Developing Frontier Cities: Global Perspectives</unittitle>
+                        <container id="cid2120897" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120897" type="Folder">43</container>
+                        <unitdate>1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Towards a GeoEd Research Agenda: Observations of Concerned Bystander" Professional Geographer</unittitle>
+                        <container id="cid2120896" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120896" type="Folder">44</container>
+                        <unitdate>1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>"Change, Community and the Pursuit of Geographic Understanding, Presidential Address" Annals of the Association of American Geographers</unittitle>
+                        <container id="cid2120895" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120895" type="Folder">45</container>
+                        <unitdate>1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>Presidential Musings form the Meridian: Reflections on the Nature of Geography by Past Presidents of the Association of American Geographers.</unittitle>
+                        <container id="cid2120894" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120894" type="Folder">46</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>"E Willard ‘Will' Miller 1915-2002" Annals of the Association of American Geographers</unittitle>
+                        <container id="cid2120893" type="Box" label="Mixed Materials">UA.2014.0228.0002</container>
+                        <container parent="cid2120893" type="Folder">47</container>
+                        <unitdate>2004</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Innovation Diffusion in a Developing Economy: A Meso-Scale View. Economic Development and Cultural Change</unittitle>
+                        <container id="cid2120892" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120892" type="Folder">1</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>Growth Poles, Diffusion, and Development: Comments on Interrelated Work. Latin American Development Issues</unittitle>
+                        <container id="cid2120891" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120891" type="Folder">2</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Facility Location under a Maximum Travel Restriction: An Example Using Day Care Facilities. Geographical Analysis</unittitle>
+                        <container id="cid2120890" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120890" type="Folder">3</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>Diffusion Through an Urban System: The Testing of Related Hypotheses. TIJDSCHRIFT Voor Econ. En Soc. Geografie</unittitle>
+                        <container id="cid2120889" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120889" type="Folder">4</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Behavioral Approaches in Geography: An Overview. The Australian Geographer</unittitle>
+                        <container id="cid2120888" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120888" type="Folder">5</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Critical Notes on an Alleged Operationalization of the Concept of Spatial Utility. Demography</unittitle>
+                        <container id="cid2120887" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120887" type="Folder">6</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>Employment Structure as an Indicator of Shifts in the Space Economy. Revista Geografica</unittitle>
+                        <container id="cid2120886" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120886" type="Folder">7</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Empirical Regularities in the Diffusion of Innovation. Annals of the Association of American Geographers</unittitle>
+                        <container id="cid2120885" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120885" type="Folder">8</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>The Delimitation of Functional Regions, Nodal Regions, and Hierarchies by Functional Distance Approaches. Urbanizacao E Regionalizacao</unittitle>
+                        <container id="cid2120884" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120884" type="Folder">9</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>The Delimitation of Functional Regions, Nodal Regions, and Hierarchies by Functional Distance Approaches. EKISTICS</unittitle>
+                        <container id="cid2120883" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120883" type="Folder">10</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>The Delimitation of Functional Regions, Nodal Regions, and Hierarchies by Functional Distance Approaches. Journal of Regional Science</unittitle>
+                        <container id="cid2120882" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120882" type="Folder">11</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Search Behavior in an Intra-Urban Migration Context: A Spatial Perspective. Environment and Planning</unittitle>
+                        <container id="cid2120881" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120881" type="Folder">12</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>On Rural Settlement in Israel and Model Strategy. Northern Illinois University Perspectives in Geography</unittitle>
+                        <container id="cid2120880" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120880" type="Folder">13</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>Intra-Urban Migrant Lifelines: A Spatial View. The Review of Regional Studies</unittitle>
+                        <container id="cid2120879" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120879" type="Folder">14</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Intra-Urban Migrant Lifelines: A Spatial View. Demography</unittitle>
+                        <container id="cid2120878" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120878" type="Folder">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Diffusion of Innovation in Latin America: A Geographer's Perspective. Geographic Research in Latin America: Benchmark</unittitle>
+                        <container id="cid2120877" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120877" type="Folder">16</container>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>The Intra-Urban Migration Process: A Perspective. Internal Structure of the City</unittitle>
+                        <container id="cid2120876" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120876" type="Folder">17</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>The Intra-Urban Migration Process: A Perspective. Yearbook of the Society for General Systems Research</unittitle>
+                        <container id="cid2120875" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120875" type="Folder">18</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="file">
+                    <did>
+                        <unittitle>The Intra-Urban Migration Process: A Perspective. Geografiska Annaler</unittitle>
+                        <container id="cid2120874" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120874" type="Folder">19</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>Migration, Functional Distance, and the Urban Hierarchy. Economic Geography</unittitle>
+                        <container id="cid2120873" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120873" type="Folder">20</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Migration Flows in Intra-Urban Space: Place Utility Considerations. Annals of the Association of American Geographers</unittitle>
+                        <container id="cid2120872" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120872" type="Folder">21</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Functional Distance: An Operational Approach. Geographical Analysis</unittitle>
+                        <container id="cid2120871" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120871" type="Folder">22</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>Urban Acquaintance Fields: An Evaluation of a Spatial Model. Environment and Planning</unittitle>
+                        <container id="cid2120870" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120870" type="Folder">23</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Urban Activity Systems in a Planning Context. Proceedings of the Environmental Design Research Association Conference.</unittitle>
+                        <container id="cid2120869" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120869" type="Folder">24</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>Social Area Change: An Empirical Analysis. Urban Studies</unittitle>
+                        <container id="cid2120868" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120868" type="Folder">25</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>On the Use of Markov Chanis in Movement Research. Economic Geography</unittitle>
+                        <container id="cid2120867" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120867" type="Folder">26</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>On Place Utility and the Normative Allocation of Intra-Urban Migrants. Demography</unittitle>
+                        <container id="cid2120866" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120866" type="Folder">27</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>On the Implementation of Place Utility and Related Concepts: The Intra-Urban Migration Case. Behavioral Problems in Geography: A Symposium</unittitle>
+                        <container id="cid2120865" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120865" type="Folder">28</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="file">
+                    <did>
+                        <unittitle>Diffusion Research in Geography: A Perspective. Progress in Geography</unittitle>
+                        <container id="cid2120864" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120864" type="Folder">29</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Diffusion of Innovation: A Macro-view. Economic Development and Cultural Change</unittitle>
+                        <container id="cid2120863" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120863" type="Folder">30</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>Search, Learning, and the Market Decision Process. The Conceptual Revolution in Geography.</unittitle>
+                        <container id="cid2120862" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120862" type="Folder">31</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Search, Learning, and the Market Decision Process. Geografisk Annaler</unittitle>
+                        <container id="cid2120861" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120861" type="Folder">32</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Diffusion Agency Establishment: The Case of Friendly Ice Cream and Public Sector Diffusion Processes. Socio Economic Planning Sciences</unittitle>
+                        <container id="cid2120860" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120860" type="Folder">33</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>Proposed Project Aries-6: The Mining Industry and its Relationship to Community Well-Being</unittitle>
+                        <container id="cid2120859" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120859" type="Folder">34</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>Correspondence: Miscellaneous</unittitle>
+                        <container id="cid2120858" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120858" type="Folder">35</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Reprints</unittitle>
+                        <container id="cid2120857" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120857" type="Folder">36-38</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Diffusion of Innovation: Markov Chain Approach. Discussion Paper 3, Northwestern</unittitle>
+                        <container id="cid2120856" type="Box" label="Mixed Materials">UA.2014.0228.0003</container>
+                        <container parent="cid2120856" type="Folder">39</container>
+                        <unitdate>1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Latin American Proposal</unittitle>
+                        <container id="cid2120855" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120855" type="Folder">1</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>NSF Innovation Diffusion Project</unittitle>
+                        <container id="cid2120854" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120854" type="Folder">2</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>Innovation Diffusion Process in a Public Policy Context. Studies in the Diffusion of Innovation #58</unittitle>
+                        <container id="cid2120853" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120853" type="Folder">3</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>Diffusion Research in Geography, a Thematic Account. Studies in the Diffusion of Innovation #53</unittitle>
+                        <container id="cid2120852" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120852" type="Folder">4</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Innovation Diffusion and Development in a Third World Setting: The Case of the Cooperative Movement in Sierra Leone. Studies in the Diffusion of Innovation Discussion Paper Series #54</unittitle>
+                        <container id="cid2120851" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120851" type="Folder">5</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>Simulating the Spatial Diffusion of Innovation. Studies in the Diffusion of Innovation #55</unittitle>
+                        <container id="cid2120850" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120850" type="Folder">6</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>Technical Change in the Agricultural Sector: A Problem in Developing Countries. Studies in the Diffusion of Innovation #56</unittitle>
+                        <container id="cid2120849" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120849" type="Folder">7</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>An Economic History Perspective on Innovation Diffusion. Studies in the Diffusion of Innovation #51</unittitle>
+                        <container id="cid2120848" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120848" type="Folder">8</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>Diffusion Agency Establishment in a Mono-Nuclear Setting: The Case of Friendly Ice Cream and Related Considerations. Studies in the Diffusion of Innovation #48</unittitle>
+                        <container id="cid2120847" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120847" type="Folder">9</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>Innovation Establishment in a Rural Setting: Four Case Studies with Reference to a Theoretical Framework. Studies in the Diffusion of Innovation #44</unittitle>
+                        <container id="cid2120846" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120846" type="Folder">10</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Spatial Diffusion of Innovation: A Gaming Approach. Studies in the Diffusion of Innovation #42</unittitle>
+                        <container id="cid2120845" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120845" type="Folder">11</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="file">
+                    <did>
+                        <unittitle>Promar: The New Product Marketing Game. Studies in the Diffusion of Innovation Discussion Paper Series #41</unittitle>
+                        <container id="cid2120844" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120844" type="Folder">12</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>The Diffusion of a Population-Related Innovation: The Planned Parenthood Affiliate. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120843" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120843" type="Folder">13</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Infrastructure Growth and Adoption: The Diffusion of Cable Television within a Community. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120842" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120842" type="Folder">14</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>The Diffusion of Community Innovations: A Conceptualization and Empirical Analysis. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120841" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120841" type="Folder">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>Adopter Categories in a Spatial Context Revisited: Alternative Explanations for an Empirical Regularity. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120840" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120840" type="Folder">16</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>The Provision of Innovations within the Context of Geographical Diffusion Theory. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120839" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120839" type="Folder">17</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="file">
+                    <did>
+                        <unittitle>Diffusion Agency Strategy and the Adoption of Infrastructure Independent Innovations: A Case Study of the Eastern Ohio Resource Development Center. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120838" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120838" type="Folder">18</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>The Adoption of Credit Card Services by Banks: A Case Study of Innovation Diffusion in a Polynuclear Setting with Central Propagator Support. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120837" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120837" type="Folder">19</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="file">
+                    <did>
+                        <unittitle>Diffusion Waves within the Context of Regional Economic Development. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120836" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120836" type="Folder">20</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref162" level="file">
+                    <did>
+                        <unittitle>Propagator Supported Diffusion Processes: Agency Strategies and the Innovation Establishment Interface. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120835" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120835" type="Folder">21</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref163" level="file">
+                    <did>
+                        <unittitle>Innovation Diffusion in a Developing Economy: A Meso-Scale View. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120834" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120834" type="Folder">22</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref164" level="file">
+                    <did>
+                        <unittitle>An experimental Approach to the Study of Diffusion Agency Establishment Processes. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120833" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120833" type="Folder">23</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref165" level="file">
+                    <did>
+                        <unittitle>Annotated Bibliography of Geographic Diffusion Studies. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120832" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120832" type="Folder">24</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="file">
+                    <did>
+                        <unittitle>Acquaintance Circles and Communication: An Exploration of Hypotheses Relating to Innovative Adoption. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120831" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120831" type="Folder">25</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>Simmar: A Markov Chain Based Program for the Diffusion of Innovation. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120830" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120830" type="Folder">26</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref168" level="file">
+                    <did>
+                        <unittitle>Adopter Categories in a Spatial Context: Artificial Insemination in Southern Sweden. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120829" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120829" type="Folder">27</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref169" level="file">
+                    <did>
+                        <unittitle>The Diffusion of Cable Television in Ohio: A Case Study of Diffusion Agency Location Patterns and Processes of the Polynuclear Type. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120828" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120828" type="Folder">28</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref170" level="file">
+                    <did>
+                        <unittitle>Diffusion in a Growth Pole Context: A Comment. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120827" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120827" type="Folder">29</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref171" level="file">
+                    <did>
+                        <unittitle>Cones of Resolution in Spatial Diffusion Studies: A Perspective. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120826" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120826" type="Folder">30</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref172" level="file">
+                    <did>
+                        <unittitle>The Market and Infrastructure Context of Adoption: a Perspective on the Spatial Diffusion of Innovation. Studies in the Diffusion of Innovation Discussion Paper Series</unittitle>
+                        <container id="cid2120825" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120825" type="Folder">31</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref173" level="file">
+                    <did>
+                        <unittitle>The Diffusion of Innovation: a Markov Chain-Type Approach. Northwestern University Geography Discussion Paper Series</unittitle>
+                        <container id="cid2120824" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120824" type="Folder">32</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref174" level="file">
+                    <did>
+                        <unittitle>Models for Spatial Diffusion Research: A Review. ONR Project report</unittitle>
+                        <container id="cid2120823" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120823" type="Folder">33</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref175" level="file">
+                    <did>
+                        <unittitle>GAC: a Computer Program for Analysis of Linear Covariance. University of Iowa Geography Discussion Paper Series</unittitle>
+                        <container id="cid2120822" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120822" type="Folder">34</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref176" level="file">
+                    <did>
+                        <unittitle>Diffusion Research in Geography: A Perspective. University of Iowa Discussion Paper Series</unittitle>
+                        <container id="cid2120821" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120821" type="Folder">35</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref177" level="file">
+                    <did>
+                        <unittitle>Transmap: a Program for Planar Transformation of Point Distributions. Ohio State University Geography Discussion Paper Series</unittitle>
+                        <container id="cid2120820" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120820" type="Folder">36</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref178" level="file">
+                    <did>
+                        <unittitle>Population and Migration in an Urban context: a Spatial Perspective. Ohio State University Geography Discussion Paper Series</unittitle>
+                        <container id="cid2120819" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120819" type="Folder">37</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref179" level="file">
+                    <did>
+                        <unittitle>Centro: A Program for Centrographic Measures. Ohio State University Geography Discussion Paper Series</unittitle>
+                        <container id="cid2120818" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120818" type="Folder">38</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="file">
+                    <did>
+                        <unittitle>Day Care Centers in Columbus: A Locational Strategy. Ohio State University Geography Discussion Paper Series</unittitle>
+                        <container id="cid2120817" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120817" type="Folder">39</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="file">
+                    <did>
+                        <unittitle>NSF Institutes</unittitle>
+                        <container id="cid2120816" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120816" type="Folder">40</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref182" level="file">
+                    <did>
+                        <unittitle>Choice Mechanisms in the Migration Decision. Ford Foundation Project Report</unittitle>
+                        <container id="cid2120815" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120815" type="Folder">41</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref183" level="file">
+                    <did>
+                        <unittitle>Book Reviews</unittitle>
+                        <container id="cid2120814" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120814" type="Folder">42</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="file">
+                    <did>
+                        <unittitle>Rutledge- Materials/Reviews</unittitle>
+                        <container id="cid2120813" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120813" type="Folder">43</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref185" level="file">
+                    <did>
+                        <unittitle>Reviews</unittitle>
+                        <container id="cid2120812" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120812" type="Folder">44</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref186" level="file">
+                    <did>
+                        <unittitle>Innovation Diffusion Book</unittitle>
+                        <container id="cid2120811" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120811" type="Folder">45</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref187" level="file">
+                    <did>
+                        <unittitle>Studies in Innovation Diffusion Processes, 2: Conceptual Considerations</unittitle>
+                        <container id="cid2120810" type="Box" label="Mixed Materials">UA.2014.0228.0004</container>
+                        <container parent="cid2120810" type="Folder">46</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref188" level="file">
+                    <did>
+                        <unittitle>"Urban System Evaluation at the Ecuador Amazon Frontier" Geographical Review</unittitle>
+                        <container id="cid2120809" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120809" type="Folder">1</container>
+                        <unitdate>2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref189" level="file">
+                    <did>
+                        <unittitle>"The GIS/SA Interface for Substantive Research(ers): A Critical Need" Journal of Geographical Systems</unittitle>
+                        <container id="cid2120808" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120808" type="Folder">2</container>
+                        <unitdate>2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref190" level="file">
+                    <did>
+                        <unittitle>"Change, Community and the Pursuit of Geographic understanding, Presidential Address" Annals of the Association of American Geographers</unittitle>
+                        <container id="cid2120807" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120807" type="Folder">3</container>
+                        <unitdate>1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref191" level="file">
+                    <did>
+                        <unittitle>"Urban Development at the Ecuador Amazon Frontier: Boom Towns or Gloom Towns?" Developing Frontier Cities: Global Perspectives</unittitle>
+                        <container id="cid2120806" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120806" type="Folder">4</container>
+                        <unitdate>1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref192" level="file">
+                    <did>
+                        <unittitle>Economic Restructuring and Migration in an Old Industrial Region: the Ohio River Valley</unittitle>
+                        <container id="cid2120805" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120805" type="Folder">5</container>
+                        <unitdate>1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref193" level="file">
+                    <did>
+                        <unittitle>"Towards a GeoEd Research Agenda: Observations of Concerned Bystander" Professional Geography</unittitle>
+                        <container id="cid2120804" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120804" type="Folder">6</container>
+                        <unitdate>1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref194" level="file">
+                    <did>
+                        <unittitle>"Gender, Migration and the Organization of Work Under Economic Devolution; Ecuador 1982-90" International Journal of Population Geographer</unittitle>
+                        <container id="cid2120803" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120803" type="Folder">7</container>
+                        <unitdate>1998</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref195" level="file">
+                    <did>
+                        <unittitle>"Development Models, Economic Adjustment, and Occupational Composition: Ecuador 1982-90" International Regional Science Review</unittitle>
+                        <container id="cid2120802" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120802" type="Folder">8</container>
+                        <unitdate>1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="file">
+                    <did>
+                        <unittitle>"Regional Change as the Interplay of Global and Local"</unittitle>
+                        <container id="cid2120801" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120801" type="Folder">9</container>
+                        <unitdate>1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref197" level="file">
+                    <did>
+                        <unittitle>"Continuity and Change in an Old Industrial Region: the Ohio River Valley"</unittitle>
+                        <container id="cid2120800" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120800" type="Folder">10</container>
+                        <unitdate>1982-1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref198" level="file">
+                    <did>
+                        <unittitle>Urban System Evolution in Frontier Settings. Geographic Review</unittitle>
+                        <container id="cid2120799" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120799" type="Folder">11</container>
+                        <unitdate>1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref199" level="file">
+                    <did>
+                        <unittitle>Frontier Migration, Multistage phenomenon. Papers in Regional Science</unittitle>
+                        <container id="cid2120798" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120798" type="Folder">12</container>
+                        <unitdate>1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref200" level="file">
+                    <did>
+                        <unittitle>Complement Perspective Means of Understanding. Regional Change: Frontier Settlements in Ecuador</unittitle>
+                        <container id="cid2120797" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120797" type="Folder">13</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref201" level="file">
+                    <did>
+                        <unittitle>Causes of Tropical Deforestation in Ecuador</unittitle>
+                        <container id="cid2120796" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120796" type="Folder">14</container>
+                        <unitdate>1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref202" level="file">
+                    <did>
+                        <unittitle>Innovation diffusion: Retrospect and Prospect</unittitle>
+                        <container id="cid2120795" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120795" type="Folder">15</container>
+                        <unitdate>1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref203" level="file">
+                    <did>
+                        <unittitle>Location, Soc Category, Individual Labor Market: Venezuela</unittitle>
+                        <container id="cid2120794" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120794" type="Folder">16</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref204" level="file">
+                    <did>
+                        <unittitle>Migrant Fertility Differentials, Ecuador</unittitle>
+                        <container id="cid2120793" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120793" type="Folder">17</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref205" level="file">
+                    <did>
+                        <unittitle>Polar Reverse, Migration Shifts, Human Resource Profile: Venezuela</unittitle>
+                        <container id="cid2120792" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120792" type="Folder">18</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref206" level="file">
+                    <did>
+                        <unittitle>Policy Aspect Development, Individual Mobility: Mig-Circ, Ecuador Rural Sierra</unittitle>
+                        <container id="cid2120791" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120791" type="Folder">19</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref207" level="file">
+                    <did>
+                        <unittitle>Reflections, Third world Development</unittitle>
+                        <container id="cid2120790" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120790" type="Folder">20</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref208" level="file">
+                    <did>
+                        <unittitle>Development Related Context Effects, Individual Attrib, Migration: Venezuela</unittitle>
+                        <container id="cid2120789" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120789" type="Folder">21</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref209" level="file">
+                    <did>
+                        <unittitle>Migration, Human Resource Transfer, Development context: Logit Analy, Venezuela</unittitle>
+                        <container id="cid2120788" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120788" type="Folder">22</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref210" level="file">
+                    <did>
+                        <unittitle>Struct Tension, Migration, Development: Venezuela</unittitle>
+                        <container id="cid2120787" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120787" type="Folder">23</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref211" level="file">
+                    <did>
+                        <unittitle>Family Plan: Review, Concept Frame</unittitle>
+                        <container id="cid2120786" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120786" type="Folder">24</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref212" level="file">
+                    <did>
+                        <unittitle>Rural-Non Farm Employment, Migration: Costa Rica</unittitle>
+                        <container id="cid2120785" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120785" type="Folder">25</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref213" level="file">
+                    <did>
+                        <unittitle>Circ-Migration: Comparison In Ecuador</unittitle>
+                        <container id="cid2120784" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120784" type="Folder">26</container>
+                        <unitdate>1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref214" level="file">
+                    <did>
+                        <unittitle>Cross national tests 3rd World Development-Migration paradigm, Venezuela</unittitle>
+                        <container id="cid2120783" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120783" type="Folder">27</container>
+                        <unitdate>1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref215" level="file">
+                    <did>
+                        <unittitle>Migration, Uneven Development, conventional Modeling: Costa Rica</unittitle>
+                        <container id="cid2120782" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120782" type="Folder">28</container>
+                        <unitdate>1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref216" level="file">
+                    <did>
+                        <unittitle>Rural Dest. Migration in 3rd World Setg. Regional Studies</unittitle>
+                        <container id="cid2120781" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120781" type="Folder">29</container>
+                        <unitdate>1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref217" level="file">
+                    <did>
+                        <unittitle>Spatial Variation in Migration, Development: Costa Rica. Demography</unittitle>
+                        <container id="cid2120780" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120780" type="Folder">30</container>
+                        <unitdate>1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref218" level="file">
+                    <did>
+                        <unittitle>Innovation Diffusion, Entrepreneurial Activity. Research in Marketing, Vol.4</unittitle>
+                        <container id="cid2120779" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120779" type="Folder">31</container>
+                        <unitdate>1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref219" level="file">
+                    <did>
+                        <unittitle>Place Utility, Attribution Trade Off, Choice Behavior, Intra-Urban Migration</unittitle>
+                        <container id="cid2120778" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120778" type="Folder">32</container>
+                        <unitdate>1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref220" level="file">
+                    <did>
+                        <unittitle>Market Penetration, Location Conflict in Franchise Systems. Decision Sciences</unittitle>
+                        <container id="cid2120777" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120777" type="Folder">33</container>
+                        <unitdate>1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref221" level="file">
+                    <did>
+                        <unittitle>Diff. Agency Establishment: Friendly Ice Cream</unittitle>
+                        <container id="cid2120776" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120776" type="Folder">34</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref222" level="file">
+                    <did>
+                        <unittitle>Innovation Diffusion: Cooperative Movement in Sierra Leone</unittitle>
+                        <container id="cid2120775" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120775" type="Folder">35</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="file">
+                    <did>
+                        <unittitle>The Community Innovation Process</unittitle>
+                        <container id="cid2120774" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120774" type="Folder">36</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref224" level="file">
+                    <did>
+                        <unittitle>Spatial Diff. of Innovation: Gaming Approach</unittitle>
+                        <container id="cid2120773" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120773" type="Folder">37</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref225" level="file">
+                    <did>
+                        <unittitle>Landscape Evolution, Diffusion Processes</unittitle>
+                        <container id="cid2120772" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120772" type="Folder">38</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="file">
+                    <did>
+                        <unittitle>Promar: The New Product Marketing Game. Computer Applications</unittitle>
+                        <container id="cid2120771" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120771" type="Folder">39</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref227" level="file">
+                    <did>
+                        <unittitle>Diff. of Planned Parenthood Affiliation.</unittitle>
+                        <container id="cid2120770" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120770" type="Folder">40</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref228" level="file">
+                    <did>
+                        <unittitle>Place Attributes in Migration.</unittitle>
+                        <container id="cid2120769" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120769" type="Folder">41</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref229" level="file">
+                    <did>
+                        <unittitle>Strateg., Promo-Diff. of Consumer Goods-Services.</unittitle>
+                        <container id="cid2120768" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120768" type="Folder">42</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref230" level="file">
+                    <did>
+                        <unittitle>Acquaint Circles, Communication, Innovation Adoption.</unittitle>
+                        <container id="cid2120767" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120767" type="Folder">43</container>
+                        <unitdate>1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref231" level="file">
+                    <did>
+                        <unittitle>Adopter Category in Spatial Context: Altern. Explan. Empiric Region.</unittitle>
+                        <container id="cid2120766" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120766" type="Folder">44</container>
+                        <unitdate>1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref232" level="file">
+                    <did>
+                        <unittitle>Cones of Resolution in Spatial Diffusion Studies</unittitle>
+                        <container id="cid2120765" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120765" type="Folder">45</container>
+                        <unitdate>1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref233" level="file">
+                    <did>
+                        <unittitle>Diffusion Waves, Regional Economic Development. Journal of Regional Science</unittitle>
+                        <container id="cid2120764" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120764" type="Folder">46</container>
+                        <unitdate>1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref234" level="file">
+                    <did>
+                        <unittitle>Simmar: Markov Chain Prog., Innovation Diffusion. Computer Applications</unittitle>
+                        <container id="cid2120763" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120763" type="Folder">47</container>
+                        <unitdate>1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref235" level="file">
+                    <did>
+                        <unittitle>Mkt-Infrastructure Context of Adoption</unittitle>
+                        <container id="cid2120762" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120762" type="Folder">48</container>
+                        <unitdate>1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref236" level="file">
+                    <did>
+                        <unittitle>Cable Television in Ohio: Diffusion Agency Polynuclear Type</unittitle>
+                        <container id="cid2120761" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120761" type="Folder">49</container>
+                        <unitdate>1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref237" level="file">
+                    <did>
+                        <unittitle>Location of Urban Pop Service Facilities: Day Care Centers</unittitle>
+                        <container id="cid2120760" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120760" type="Folder">50</container>
+                        <unitdate>1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref238" level="file">
+                    <did>
+                        <unittitle>Innovation Diffusion in Developing Economy: Meso-Scale View</unittitle>
+                        <container id="cid2120759" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120759" type="Folder">51</container>
+                        <unitdate>1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref239" level="file">
+                    <did>
+                        <unittitle>Behavioral Approaches in Geography</unittitle>
+                        <container id="cid2120758" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120758" type="Folder">52</container>
+                        <unitdate>1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref240" level="file">
+                    <did>
+                        <unittitle>Diffusion Through an Urban System</unittitle>
+                        <container id="cid2120757" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120757" type="Folder">53</container>
+                        <unitdate>1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref241" level="file">
+                    <did>
+                        <unittitle>Facil. Location Under Max Travel Restrict: Day Care Facilities</unittitle>
+                        <container id="cid2120756" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120756" type="Folder">54</container>
+                        <unitdate>1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref242" level="file">
+                    <did>
+                        <unittitle>Centro: Program for Centrograph Measures.</unittitle>
+                        <container id="cid2120755" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120755" type="Folder">55</container>
+                        <unitdate>1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref243" level="file">
+                    <did>
+                        <unittitle>Delimit Function Regions, Nodal Regions, Hier: Function Diffusion Approach</unittitle>
+                        <container id="cid2120754" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120754" type="Folder">56</container>
+                        <unitdate>1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref244" level="file">
+                    <did>
+                        <unittitle>Empiric Region in Diffusion of Innovation</unittitle>
+                        <container id="cid2120753" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120753" type="Folder">57</container>
+                        <unitdate>1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref245" level="file">
+                    <did>
+                        <unittitle>Intra-Urban Migration Lifelines: Spatial View. Demography</unittitle>
+                        <container id="cid2120752" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120752" type="Folder">58</container>
+                        <unitdate>1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref246" level="file">
+                    <did>
+                        <unittitle>Search Behavior, Intra-Urban Migration Context</unittitle>
+                        <container id="cid2120751" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120751" type="Folder">59</container>
+                        <unitdate>1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref247" level="file">
+                    <did>
+                        <unittitle>Functional Dist.: Operational Approach. Geographic Analysis</unittitle>
+                        <container id="cid2120750" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120750" type="Folder">60</container>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref248" level="file">
+                    <did>
+                        <unittitle>Intra-Urban Migration Process: Perspective</unittitle>
+                        <container id="cid2120749" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120749" type="Folder">61</container>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref249" level="file">
+                    <did>
+                        <unittitle>Migration Flows in Intra-Urban Space: Place Utility. Annals of AAG</unittitle>
+                        <container id="cid2120748" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120748" type="Folder">62</container>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref250" level="file">
+                    <did>
+                        <unittitle>Migration, Functional dist., Urban Hierarchy.</unittitle>
+                        <container id="cid2120747" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120747" type="Folder">63</container>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref251" level="file">
+                    <did>
+                        <unittitle>Place Utility and Normative Alloc of Intra-Urban Migrants</unittitle>
+                        <container id="cid2120746" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120746" type="Folder">64</container>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref252" level="file">
+                    <did>
+                        <unittitle>Social Area Change: Empiric Analysis. Urban Studies</unittitle>
+                        <container id="cid2120745" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120745" type="Folder">65</container>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref253" level="file">
+                    <did>
+                        <unittitle>Urban Acquaintance Fields. Environment and Planning A</unittitle>
+                        <container id="cid2120744" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120744" type="Folder">66</container>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref254" level="file">
+                    <did>
+                        <unittitle>Use of Markov Chains, Movement Research. Economic Geography</unittitle>
+                        <container id="cid2120743" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120743" type="Folder">67</container>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref255" level="file">
+                    <did>
+                        <unittitle>Diffusion of Innovation: Macroview.</unittitle>
+                        <container id="cid2120742" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120742" type="Folder">68</container>
+                        <unitdate>1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref256" level="file">
+                    <did>
+                        <unittitle>Diff Research in Geography: Perspective. Progress in Geography 1</unittitle>
+                        <container id="cid2120741" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120741" type="Folder">69</container>
+                        <unitdate>1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref257" level="file">
+                    <did>
+                        <unittitle>Transmap: Program, Planar Transform point Distributions. Discussion Paper 3 OSU</unittitle>
+                        <container id="cid2120740" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120740" type="Folder">70</container>
+                        <unitdate>1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref258" level="file">
+                    <did>
+                        <unittitle>Search, Learn, Marketing Decision Process.</unittitle>
+                        <container id="cid2120739" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120739" type="Folder">71</container>
+                        <unitdate>1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref259" level="file">
+                    <did>
+                        <unittitle>A Simulation Model of Migration and Development. In Modeling and Simulation Volume 13</unittitle>
+                        <container id="cid2120738" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120738" type="Folder">72</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref260" level="file">
+                    <did>
+                        <unittitle>On the Interrelationships between development and migration processes. Geographic Research on Latin America: Benchmark</unittitle>
+                        <container id="cid2120737" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120737" type="Folder">73</container>
+                        <unitdate>1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref261" level="file">
+                    <did>
+                        <unittitle>Continuity amidst restructuring: the U.S. Gender Division of Labor in Geographic Perspective. International Regional Science Review</unittitle>
+                        <container id="cid2120736" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120736" type="Folder">74</container>
+                        <unitdate>1970 and 1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref262" level="file">
+                    <did>
+                        <unittitle>Racial/Ethnic residential sorting in spatial context: Testing the explanatory frameworks. Urban Geography</unittitle>
+                        <container id="cid2120735" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120735" type="Folder">75</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref263" level="file">
+                    <did>
+                        <unittitle>The market and infrastructure perspective: A missing link in understanding the diffusion of broadband adoption in Oklahoma. The Annals of Regional Science</unittitle>
+                        <container id="cid2120734" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120734" type="Folder">76</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref264" level="file">
+                    <did>
+                        <unittitle>Market led pluralism: Rethinking our understanding of racial/ethnic spatial patterning in U.S. cities.</unittitle>
+                        <container id="cid2120733" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120733" type="Folder">77</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref265" level="file">
+                    <did>
+                        <unittitle>Population Growth. Geography in America</unittitle>
+                        <container id="cid2120732" type="Box" label="Mixed Materials">UA.2014.0228.0005</container>
+                        <container parent="cid2120732" type="Folder">78</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

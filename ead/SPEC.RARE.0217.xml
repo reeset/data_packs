@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid url="https://library.osu.edu/finding-aids/ead/RARE/SPEC.RARE.0217.xml">2017-10-21</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to C. Mehrl Bennett Artwork and Visual Poetry, 2006-2018
+                    <num>SPEC.RARE.0217</num>
+                </titleproper>
+                <author>Finding aid prepared by Ashleigh Minor</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Ohio State University Libraries Special Collections</publisher>
+                <address>
+                    <addressline>1858 Neil Avenue</addressline>
+                    <addressline>Columbus, OH, 43210</addressline>
+                </address>
+                <date>2017 October; 2018 November</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-12-04T13:54-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>C. Mehrl Bennett Artwork and Visual Poetry</unittitle>
+            <unitid>SPEC.RARE.0217</unitid>
+            <repository>
+                <corpname>Ohio State University Libraries Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.42 Cubic feet</extent>
+            </physdesc>
+            <unitdate>2006-2018</unitdate>
+            <abstract id="ref28" label="Abstract">As of 2017, C. Mehrl Bennett is a multi-media artist, performer, and writer of fluxus scores and experimental poetry in Columbus, Ohio. C. Mehrl Bennett Artwork and Visual Poetry contains small visual poetry booklets, artistamps, artist books, and printouts and compact discs of multi-media and word artwork created by Bennett between 2006 and 2018. Some of the materials are collaborations with other visual artists and experimental writers.</abstract>
+            <physdesc id="ref29" label="Physical Description">(1) 5” letter document box; (1) flat box</physdesc>
+            <langmaterial id="ref30" label="Language of Materials">English</langmaterial>
+            <origination label="creator">
+                <persname rules="rda" source="naf">Bennett, C. Mehrl</persname>
+            </origination>
+        </did>
+        <arrangement id="ref31">
+            <head>Arrangement of Materials</head>
+            <p>Materials in the collection are arranged chronologically by date of creation.</p>
+        </arrangement>
+        <acqinfo id="ref32">
+            <head>Acquisitions Information</head>
+            <p>Donated by: C. Mehrl Bennett, date unknown; Accession No. RARE.2018.0090: C. Mehrl Bennett, 2018 September</p>
+        </acqinfo>
+        <prefercite id="ref33">
+            <head>Preferred Citation</head>
+            <p>[identification of item], C. Mehrl Bennett Artwork and Visual Poetry, SPEC.RARE.0217, Rare Books and Manuscripts Library, Ohio State University</p>
+        </prefercite>
+        <phystech id="ref34">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Contains compact discs.</p>
+        </phystech>
+        <accessrestrict id="ref35">
+            <head>Access to Materials</head>
+            <p>Materials in this collection are available for use, but may be used in the Thompson Library Special Collections reading room only. Audio/visual materials and computer media may need a use copy produced before access is allowed.</p>
+        </accessrestrict>
+        <userestrict id="ref36">
+            <head>Use of Materials</head>
+            <p>Materials in this collection may be protected by copyright, and are made available for research and educational purposes. In general, the OSU Libraries do not own the copyright for materials from our collections and cannot grant copyright permissions for these materials. The user is responsible for making a final determination of copyright status. If copyright protection applies, permission must be obtained from the copyright holder to reuse, publish, or reproduce the work beyond the bounds of fair use or other exceptions to the law. Works in the public domain are not protected by copyright and do not require permission to use.</p>
+        </userestrict>
+        <processinfo id="ref37">
+            <head>Processing Information</head>
+            <p>Processed by: Ashleigh Minor, 2017 October. Finding aid written by: Ashleigh Minor, 2017 October; 2018 November</p>
+        </processinfo>
+        <bioghist id="ref38">
+            <head>Biographical Note</head>
+            <p>As of 2017, C. Mehrl Bennett is a multi-media artist, performer, and writer of fluxus scores and experimental poetry in Columbus, Ohio. She also works as a mail-artist, consultant editor and technical facilitator for Luna Bistone Prods publications, and as a contributing editor, artist and writer for arts and vispo related publications and websites. C. Mehrl Bennett is the wife of John M. Bennett, an experimental writer and former curator of the Avant Writing Collection at Ohio State University Libraries.</p>
+        </bioghist>
+        <scopecontent id="ref39">
+            <head>Scope and Contents</head>
+            <p>C. Mehrl Bennett Artwork and Visual Poetry contains small visual poetry booklets, artistamps, artist books, and printouts and compact discs of multi-media and word artwork created by C. Mehrl Bennett between 2006 and 2018. Some of the materials are collaborations with other visual artists and experimental writers. Also included are printouts of email correspondence and Bennett’s blog posts, two calendars containing Bennett’s artworks, and a copy of her resume circa 2008.</p>
+        </scopecontent>
+        <relatedmaterial id="ref50">
+            <head>Related Materials</head>
+            <list type="deflist">
+                <defitem>
+                    <label>SPEC.RARE.0245</label>
+                    <item>
+                        <extref ns2:actuate="onRequest" ns2:show="embed" ns2:href="https://library.osu.edu/finding-aids/ead/RARE/SPEC.RARE.0245.xml">Mail Art and Artistamps Received by C. Mehrl Bennett</extref></item>
+                </defitem>
+                <defitem>
+                    <label>SPEC.RARE.0170</label>
+                    <item>
+                        <extref ns2:actuate="onRequest" ns2:show="embed" ns2:href="https://library.osu.edu/finding-aids/ead/RARE/SPEC.RARE.0170.xml">Avant Writing Publications</extref></item>
+                </defitem>
+                <defitem>
+                    <label>SPEC.RARE.CMS.0133</label>
+                    <item>
+                        <extref ns2:actuate="onRequest" ns2:show="embed" ns2:href="https://library.osu.edu/finding-aids/ead/RARE/SPEC.RARE.CMS.0133.xml">John M. Bennett Collection</extref></item>
+                </defitem>
+            </list>
+        </relatedmaterial>
+        <controlaccess>
+            <persname rules="rda" source="naf">Bennett, C. Mehrl</persname>
+            <genreform source="aat">Artistamps</genreform>
+            <subject source="lcsh">Artists' books--Ohio--Columbus--21st century</subject>
+            <subject source="lcsh">Experimental poetry, American--Ohio--Columbus--21st century</subject>
+            <subject source="lcsh">Fluxus (Group of artists)</subject>
+            <subject source="lcsh">Multimedia (Art)--Ohio--Columbus--21st century</subject>
+            <genreform source="aat">Multimedia works</genreform>
+            <genreform source="aat">Visual poetry</genreform>
+            <subject source="lcsh">Visual poetry, American--Ohio--Columbus--21st century</subject>
+            <subject source="lcsh">Women artists--Ohio--Columbus--21st century</subject>
+            <subject source="lcsh">Women poets, American--Ohio--Columbus--21st century</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref25" level="file">
+                <did>
+                    <unittitle>"Word Art" discs 1-3</unittitle>
+                    <container id="cid6384023" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384023" type="Folder">23</container>
+                    <unitdate>2006</unitdate>
+                </did>
+                <phystech id="ref24">
+                    <head>Physical Characteristics and Technical Requirements note</head>
+                    <p>Compact discs</p>
+                </phystech>
+            </c01>
+            <c01 id="ref22" level="file">
+                <did>
+                    <unittitle>Art prints and email correspondence printouts</unittitle>
+                    <container id="cid6384021" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384021" type="Folder">21</container>
+                    <unitdate>2006-2008</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref23" level="file">
+                <did>
+                    <unittitle>Calendars of art and photos</unittitle>
+                    <container id="cid6384022" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384022" type="Folder">22</container>
+                    <unitdate>2007-2008</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref19" level="file">
+                <did>
+                    <unittitle>"John's cataract surgery" art and email correspondence printouts</unittitle>
+                    <container id="cid6384018" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384018" type="Folder">18</container>
+                    <unitdate>2008 May</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref12" level="file">
+                <did>
+                    <unittitle>"My Kimono Book"</unittitle>
+                    <container id="cid6384011" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384011" type="Folder">11</container>
+                    <unitdate>2008</unitdate>
+                </did>
+                <phystech id="ref11">
+                    <head>Physical Characteristics and Technical Requirements note</head>
+                    <p>Compact disc</p>
+                </phystech>
+            </c01>
+            <c01 id="ref27" level="file">
+                <did>
+                    <unittitle>"Words and Junk"</unittitle>
+                    <container id="cid6384024" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384024" type="Folder">24</container>
+                    <unitdate>2008</unitdate>
+                </did>
+                <phystech id="ref26">
+                    <head>Physical Characteristics and Technical Requirements note</head>
+                    <p>Compact disc</p>
+                </phystech>
+            </c01>
+            <c01 id="ref21" level="file">
+                <did>
+                    <unittitle>Resume</unittitle>
+                    <container id="cid6384020" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384020" type="Folder">20</container>
+                    <unitdate>circa 2008</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref18" level="file">
+                <did>
+                    <unittitle>"Eat your Meat and Potatoes" word art and email correspondence printouts</unittitle>
+                    <container id="cid6384017" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384017" type="Folder">17</container>
+                    <unitdate>2008-2009</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref20" level="file">
+                <did>
+                    <unittitle>Two artwork printouts, collaborations with John M. Bennett and Sheila Murphy</unittitle>
+                    <container id="cid6384019" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384019" type="Folder">19</container>
+                    <unitdate>2008-2009</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref17" level="file">
+                <did>
+                    <unittitle>"Over the Sofa/Under the Skin/Inside the Head" blog post printouts</unittitle>
+                    <container id="cid6384016" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384016" type="Folder">16</container>
+                    <unitdate>2010 July, September</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref7" level="file">
+                <did>
+                    <unittitle>"In Remembrance: Jan. 27, 1945 the Death Camps of Auschwitz Were Freed" visual poetry book</unittitle>
+                    <container id="cid6384007" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384007" type="Folder">7</container>
+                    <unitdate>2011</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref8" level="file">
+                <did>
+                    <unittitle>"Bawa Hacks" booklets, collaboration with Al Ackerman</unittitle>
+                    <container id="cid6384008" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384008" type="Folder">8</container>
+                    <unitdate>2011-2014</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref9" level="file">
+                <did>
+                    <unittitle>"Old Cents" visual poetry book</unittitle>
+                    <container id="cid6384009" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384009" type="Folder">9</container>
+                    <unitdate>2012-2013</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref10" level="file">
+                <did>
+                    <unittitle>Visual poetry printouts</unittitle>
+                    <container id="cid6384010" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384010" type="Folder">10</container>
+                    <unitdate>2012-2014</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref3" level="file">
+                <did>
+                    <unittitle>"Asemic Shadows" visual poetry book, collaboration with Cheryl Penn</unittitle>
+                    <container id="cid6384003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384003" type="Folder">3</container>
+                    <unitdate>2014</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref15" level="file">
+                <did>
+                    <unittitle>"Mail Art Congress: Picasso Gaglione and Jim Leftwich" artistamps</unittitle>
+                    <container id="cid6384014" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384014" type="Folder">14</container>
+                    <unitdate>2014</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref14" level="file">
+                <did>
+                    <unittitle>"Six Pictos" artistamps</unittitle>
+                    <container id="cid6384013" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384013" type="Folder">13</container>
+                    <unitdate>2014</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref5" level="file">
+                <did>
+                    <unittitle>"Stories" visual poetry book, collaboration with Shawn McMurtagh</unittitle>
+                    <container id="cid6384005" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384005" type="Folder">5</container>
+                    <unitdate>2014</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref1" level="file">
+                <did>
+                    <unittitle>"Under the Table" visual poetry book, collaboration with Cesar Espinosa</unittitle>
+                    <container id="cid6384001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384001" type="Folder">1</container>
+                    <unitdate>2014</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref13" level="file">
+                <did>
+                    <unittitle>"Silhoutte" and "ART" artistamps series</unittitle>
+                    <container id="cid6384012" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384012" type="Folder">12</container>
+                    <unitdate>2014-2015</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref16" level="file">
+                <did>
+                    <unittitle>"Old-New-and Puddled" and "In Honor of Insignificance" artistamps</unittitle>
+                    <container id="cid6384015" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384015" type="Folder">15</container>
+                    <unitdate>2015</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref4" level="file">
+                <did>
+                    <unittitle>"Fourteen Pictoglyph Stories" visual poetry book</unittitle>
+                    <container id="cid6384004" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384004" type="Folder">4</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref6" level="file">
+                <did>
+                    <unittitle>Untitled visual poetry book, collaboration with Marilyn R. Rosenberg and Thomas M. Cassidy</unittitle>
+                    <container id="cid6384006" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384006" type="Folder">6</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref2" level="file">
+                <did>
+                    <unittitle>"Xray Vision" visual poetry book, collaboration with John M. Bennett</unittitle>
+                    <container id="cid6384002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid6384002" type="Folder">2</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref43" level="series">
+                <did>
+                    <unittitle>Accession No. RARE.2018.0090</unittitle>
+                    <physdesc>
+                        <extent>0.22 Cubic feet</extent>
+                    </physdesc>
+                    <unitdate>2010-2018</unitdate>
+                    <physdesc id="ref47" label="Physical Description">(1) flat box</physdesc>
+                </did>
+                <arrangement id="ref49">
+                    <head>Arrangement of Materials</head>
+                    <p>This accession is unprocessed; materials are arranged in the order received.</p>
+                </arrangement>
+                <scopecontent id="ref48">
+                    <head>Scope and Contents</head>
+                    <p>2 books of collaborative art projects that C. Mehrl Bennett contributed to, dated 2010 and 2016, and 4 folders of her artistamps created between 2015 and 2018.</p>
+                </scopecontent>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>"The Peeps Photo Project: Living the Miniature Life" collected project collaborations in book form</unittitle>
+                        <container id="cid10612001" type="Box" label="Mixed materials">Accession No. RARE.2018.0090.001</container>
+                        <unitdate>2016 March</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>"Femail Artist Book (FAB)" collaborative artist book</unittitle>
+                        <container id="cid10612002" type="Box" label="Mixed materials">Accession No. RARE.2018.0090.001</container>
+                        <unitdate>2010</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Artistamps</unittitle>
+                        <container id="cid10612003" type="Box" label="Mixed materials">Accession No. RARE.2018.0090.001</container>
+                        <unitdate>2015-2018</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

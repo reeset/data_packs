@@ -1,0 +1,2672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid url="https://library.osu.edu/finding-aids/ead/UA/RG.7.A.xml">2018-05-09</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Ohio State University, Office of Research, Vice President for Research Records, 1954-1975
+                    <num>RG.7.A</num>
+                </titleproper>
+                <author>Finding aid prepared by Karen Glenn</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Ohio State University Libraries Special Collections</publisher>
+                <address>
+                    <addressline>1858 Neil Avenue</addressline>
+                    <addressline>Columbus, OH, 43210</addressline>
+                </address>
+                <date>2018 May</date>
+            </publicationstmt>
+            <seriesstmt>
+                <p>Done.</p>
+            </seriesstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-05-09T11:22-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="recordgrp">
+        <did>
+            <unittitle>Ohio State University, Office of Research, Vice President for Research Records</unittitle>
+            <unitid>RG.7.A</unitid>
+            <repository>
+                <corpname>Ohio State University Libraries Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>13.8 Cubic feet</extent>
+            </physdesc>
+            <unitdate>1954-1975</unitdate>
+            <abstract id="ref386" label="Abstract">In 1962, Ohio State University transferred research responsibilities from the Vice President for Instruction and Research and delegated them to the Vice President for Research. This position became the executive head of the Office of Research and President of the Research Foundation. The position ceased to exist on January 1, 1970. The Ohio State University, Office of Research, Vice President for Research Records contain grant proposals, correspondence, project reports, and other administrative records related to the Higher Education Facilities Act of 1963, the Ohio State University Research Foundation, and research activities in various colleges and departments on campus. The collection dates from 1954-1975.</abstract>
+            <physdesc id="ref382" label="Physical Description">(11) cartons, (1) 5" letter document box, (1) 2.5" letter document box</physdesc>
+            <langmaterial id="ref376" label="Language of Materials">English</langmaterial>
+            <origination label="creator">
+                <corpname rules="rda" source="local">Ohio State University. Office of Research.</corpname>
+            </origination>
+        </did>
+        <arrangement id="ref2">
+            <head>Arrangement of Materials</head>
+            <p>Materials are arranged in 5 series: 
+                <blockquote>
+                    <p>
+                        <ref ns2:actuate="onRequest" ns2:show="embed" target="ref5">Series 1: General File</ref></p>
+                </blockquote>
+                <blockquote>
+                    <p>
+                        <ref ns2:actuate="onRequest" ns2:show="embed" target="ref240">Series 2: Ohio State University Research Foundation</ref></p>
+                </blockquote>
+                <blockquote>
+                    <p>
+                        <ref ns2:actuate="onRequest" ns2:show="embed" target="ref272">Series 3: Research Activity</ref></p>
+                </blockquote>
+                <blockquote>
+                    <p>
+                        <ref ns2:actuate="onLoad" ns2:show="embed" target="ref307">Series 4: Federal Programs</ref></p>
+                </blockquote>
+                <blockquote>
+                    <p>
+                        <ref ns2:actuate="onLoad" ns2:show="embed" target="ref336">Series 5: Grant Applications</ref></p>
+                </blockquote></p>
+        </arrangement>
+        <acqinfo id="ref383">
+            <head>Acquisitions Information</head>
+            <p>Accession Number UA.1971.0042: Office of Academic Affairs, date unknown; Accession Number UA.1972.0056: Graduate School, date unknown</p>
+        </acqinfo>
+        <prefercite id="ref377">
+            <head>Preferred Citation</head>
+            <p>[identification of item], Ohio State University, Office of Research, Vice President for Research Records, RG 7.A, Ohio State University Archives, Ohio State University</p>
+        </prefercite>
+        <accessrestrict id="ref3">
+            <head>Access to Materials</head>
+            <p>Materials in this collection are available for patron research, but may be used only in the University Archives Reading Room.</p>
+        </accessrestrict>
+        <userestrict id="ref375">
+            <head>Use of Materials</head>
+            <p>Materials in this collection may be protected by copyright, and are made available for research and educational purposes. In general, the OSU Libraries do not own the copyright for materials from our collections and cannot grant copyright permissions for these materials. The user is responsible for making a final determination of copyright status. If copyright protection applies, permission must be obtained from the copyright holder to reuse, publish, or reproduce the work beyond the bounds of fair use or other exceptions to the law. Works in the public domain are not protected by copyright and do not require permission to use.</p>
+        </userestrict>
+        <processinfo id="ref378">
+            <head>Processing Information</head>
+            <p>Finding aid written by: Karen Glenn, 2018 May</p>
+        </processinfo>
+        <bioghist id="ref380">
+            <head>Historical Note</head>
+            <p>In 1962, Ohio State University transferred research responsibilities from the Vice President for Instruction and Research and delegated them to the Vice President for Research. This position became the executive head of the Office of Research, and was filled by the chairman of the Department of Chemistry, Alfred B. Garrett. Garrett also filled the role of Research Foundation President. The position ceased to exist on January 1, 1970, when Dr. Garrett resigned to return to teaching chemistry. Responsibilities for research were then combined with the Office of Academic Affairs, and a Vice President for Research and Sponsored Programs was appointed.</p>
+        </bioghist>
+        <scopecontent id="ref384">
+            <head>Scope and Contents</head>
+            <p>Ohio State University, Office of Research, Vice President for Research Records contain grant proposals, correspondence, project reports, and other administrative records related to the Higher Education Facilities Act of 1963 and other federal programs, the Ohio State University Research Foundation, and research activities in various colleges and departments on campus. The collection dates from 1954-1975.</p>
+        </scopecontent>
+        <relatedmaterial id="ref385">
+            <head>Related Materials</head>
+            <list type="deflist">
+                <defitem>
+                    <label>RG 53.A</label>
+                    <item>
+                        <extref ns2:actuate="onRequest" ns2:show="embed" ns2:href="https://library.osu.edu/finding-aids/ead/UA/RG.53.A.xml">Ohio State University, Office of Academic Affairs, Office of Research, Senior Vice President for Research Records</extref></item>
+                </defitem>
+                <defitem>
+                    <label>Ohio State University Archives Subject File</label>
+                    <item>Office of Vice President for Research</item>
+                </defitem>
+            </list>
+        </relatedmaterial>
+        <controlaccess>
+            <corpname rules="rda" source="naf">Ohio State University--Administration.</corpname>
+            <corpname rules="rda" source="naf">Ohio State University--History.</corpname>
+            <corpname rules="rda" source="naf">Ohio State University--Research.</corpname>
+            <corpname rules="rda" source="local">Ohio State University. Office of Research.</corpname>
+            <corpname rules="rda" source="naf">Ohio State University. Research Foundation.</corpname>
+            <corpname rules="rda" source="local">United States. Higher Education Facilities Act of 1963.</corpname>
+            <genreform source="aat">Grant proposals</genreform>
+            <subject source="lcsh">Research--Management--20th century</subject>
+            <subject source="lcsh">State universities and colleges--Ohio--Columbus--Administration--20th century</subject>
+            <subject source="lcsh">State universities and colleges--Research--Ohio--Columbus--20th century</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref4" level="series">
+                <did>
+                    <unittitle>Processed</unittitle>
+                    <physdesc>
+                        <extent>13.8 Cubic feet</extent>
+                    </physdesc>
+                    <unitdate>1954-1975</unitdate>
+                    <physdesc id="ref381" label="Physical Description">(11) cartons, (1) 5" letter document box, (1) 2.5" letter document box</physdesc>
+                </did>
+                <c02 id="ref5" level="subseries">
+                    <did>
+                        <unittitle>General File</unittitle>
+                        <unitid>Series 1</unitid>
+                        <unitdate>1959-1975</unitdate>
+                    </did>
+                    <c03 id="ref6" level="file">
+                        <did>
+                            <unittitle>Academic Image Booklet</unittitle>
+                            <container id="cid2261825" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref7" level="file">
+                        <did>
+                            <unittitle>Accelerator (Large)</unittitle>
+                            <container id="cid2261824" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1965-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref8" level="file">
+                        <did>
+                            <unittitle>Administrative Services Center (ASC)</unittitle>
+                            <container id="cid2261823" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1964-1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref9" level="file">
+                        <did>
+                            <unittitle>Agricultural Biochemistry</unittitle>
+                            <container id="cid2261822" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref10" level="file">
+                        <did>
+                            <unittitle>Antenna Laboratory (2 folders)</unittitle>
+                            <container id="cid2261821" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1965-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref11" level="file">
+                        <did>
+                            <unittitle>Argonne Universities Association (4 folders)</unittitle>
+                            <container id="cid2261820" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1967-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref12" level="file">
+                        <did>
+                            <unittitle>Associated Midwest Universities (AMU) (2 folders)</unittitle>
+                            <container id="cid2261819" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1965-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref13" level="file">
+                        <did>
+                            <unittitle>Association of American Universities</unittitle>
+                            <container id="cid2261818" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1965-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref14" level="file">
+                        <did>
+                            <unittitle>Atmospheric Sciences</unittitle>
+                            <container id="cid2261817" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1963-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref15" level="file">
+                        <did>
+                            <unittitle>Atomic Energy Commission</unittitle>
+                            <container id="cid2261816" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1963-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref16" level="file">
+                        <did>
+                            <unittitle>Barken -- Aesthetics</unittitle>
+                            <container id="cid2261815" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref17" level="file">
+                        <did>
+                            <unittitle>Biological Engineering Research</unittitle>
+                            <container id="cid2261814" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref18" level="file">
+                        <did>
+                            <unittitle>Biological Sciences</unittitle>
+                            <container id="cid2261813" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1964-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="file">
+                        <did>
+                            <unittitle>Biological Survey</unittitle>
+                            <container id="cid2261812" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1962-1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref20" level="file">
+                        <did>
+                            <unittitle>Biomedical Engineering Council</unittitle>
+                            <container id="cid2261811" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref21" level="file">
+                        <did>
+                            <unittitle>Biomedical Sciences Support Grant (NIH)</unittitle>
+                            <container id="cid2261810" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1967-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="file">
+                        <did>
+                            <unittitle>Biomedical Support Grants (Colleges): Reports</unittitle>
+                            <container id="cid2261809" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="file">
+                        <did>
+                            <unittitle>Biometeorology</unittitle>
+                            <container id="cid2261808" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="file">
+                        <did>
+                            <unittitle>Biophysics</unittitle>
+                            <container id="cid2261807" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1964-1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="file">
+                        <did>
+                            <unittitle>Board of Regents: Science Advisory Committee</unittitle>
+                            <container id="cid2261806" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1964-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="file">
+                        <did>
+                            <unittitle>Board of Regents: Slide Presentation</unittitle>
+                            <container id="cid2261805" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="file">
+                        <did>
+                            <unittitle>Botany Department</unittitle>
+                            <container id="cid2261804" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="file">
+                        <did>
+                            <unittitle>Budget Materials</unittitle>
+                            <container id="cid2261803" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1963-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="file">
+                        <did>
+                            <unittitle>Bureau of Business Research</unittitle>
+                            <container id="cid2261802" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="file">
+                        <did>
+                            <unittitle>Byrd Memorial</unittitle>
+                            <container id="cid2261801" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1963-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="file">
+                        <did>
+                            <unittitle>Cady, Henry L.: Proposal</unittitle>
+                            <container id="cid2261800" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1968-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="file">
+                        <did>
+                            <unittitle>California Alumni</unittitle>
+                            <container id="cid2261799" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="file">
+                        <did>
+                            <unittitle>Capital Improvement Needs</unittitle>
+                            <container id="cid2261798" type="Box" label="Mixed Materials">UA.RG.7.A.0001</container>
+                            <unitdate>1967-1973</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="file">
+                        <did>
+                            <unittitle>"Cat" Problem</unittitle>
+                            <container id="cid2261797" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1967-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="file">
+                        <did>
+                            <unittitle>Catalysis Institute</unittitle>
+                            <container id="cid2261796" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="file">
+                        <did>
+                            <unittitle>CCH Specials Log</unittitle>
+                            <container id="cid2261795" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1965-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="file">
+                        <did>
+                            <unittitle>Center for Adolescents</unittitle>
+                            <container id="cid2261794" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="file">
+                        <did>
+                            <unittitle>Center for Advanced Studies</unittitle>
+                            <container id="cid2261793" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="file">
+                        <did>
+                            <unittitle>Center for Experimental Research in The Arts (2 folders)</unittitle>
+                            <container id="cid2261792" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1967-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="file">
+                        <did>
+                            <unittitle>Centers of Excellence (2 folders)</unittitle>
+                            <container id="cid2261791" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1967-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>Chamber of Commerce (Columbus, Ohio)</unittitle>
+                            <container id="cid2261790" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="file">
+                        <did>
+                            <unittitle>Chemistry, Department of</unittitle>
+                            <container id="cid2261789" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="file">
+                        <did>
+                            <unittitle>Children's Hospital -- Board of Trustees (2 folders)</unittitle>
+                            <container id="cid2261788" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1962-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="file">
+                        <did>
+                            <unittitle>Children's Hospital -- Minutes of the Board of Trustees and other committees</unittitle>
+                            <container id="cid2261787" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1964-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="file">
+                        <did>
+                            <unittitle>Computer Center: Advisory Committee</unittitle>
+                            <container id="cid2261786" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1965-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="file">
+                        <did>
+                            <unittitle>Computer Center: Data Processing System (DPS)</unittitle>
+                            <container id="cid2261785" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1963-1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="file">
+                        <did>
+                            <unittitle>Computer Center: General (4 folders)</unittitle>
+                            <container id="cid2261784" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1963-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="file">
+                        <did>
+                            <unittitle>Computer Center: Interim Plans for</unittitle>
+                            <container id="cid2261783" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="file">
+                        <did>
+                            <unittitle>Computer Center: Proposals for</unittitle>
+                            <container id="cid2261782" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1964-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="file">
+                        <did>
+                            <unittitle>Computer Center: Purchase of Computers</unittitle>
+                            <container id="cid2261781" type="Box" label="Mixed Materials">UA.RG.7.A.0002</container>
+                            <unitdate>1966-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="file">
+                        <did>
+                            <unittitle>Computer System 6500: Proposal</unittitle>
+                            <container id="cid2261780" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="file">
+                        <did>
+                            <unittitle>Cooperative Career Development</unittitle>
+                            <container id="cid2261779" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="file">
+                        <did>
+                            <unittitle>Corson Experimental Area in Psychiatric Institute</unittitle>
+                            <container id="cid2261778" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="file">
+                        <did>
+                            <unittitle>Cost Sharing Agreement: Public Health Service</unittitle>
+                            <container id="cid2261777" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1966-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>Council on Research: New Members - Programs</unittitle>
+                            <container id="cid2261776" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1963, 1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>Creativity: Miscellaneous</unittitle>
+                            <container id="cid2261775" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>Cuta, Frank (Dr.): Correspondence</unittitle>
+                            <container id="cid2261774" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="file">
+                        <did>
+                            <unittitle>Data Processing Centralization: Feasibility Analysis</unittitle>
+                            <container id="cid2261773" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="file">
+                        <did>
+                            <unittitle>Data Processing System</unittitle>
+                            <container id="cid2261772" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="file">
+                        <did>
+                            <unittitle>Departmental Development Program</unittitle>
+                            <container id="cid2261771" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1970</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="file">
+                        <did>
+                            <unittitle>Development Fund</unittitle>
+                            <container id="cid2261770" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1963-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>Earner's Feedback: Proposal</unittitle>
+                            <container id="cid2261769" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="file">
+                        <did>
+                            <unittitle>Earth Sciences (ESCP)</unittitle>
+                            <container id="cid2261768" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle>East-West Center (Honolulu, Hawaii)</unittitle>
+                            <container id="cid2261767" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="file">
+                        <did>
+                            <unittitle>Ecological Research and Surveys Bill (Natural Resources)</unittitle>
+                            <container id="cid2261766" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>Education, College of</unittitle>
+                            <container id="cid2261765" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="file">
+                        <did>
+                            <unittitle>Educational Television Facilities</unittitle>
+                            <container id="cid2261764" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1966-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="file">
+                        <did>
+                            <unittitle>Electronics Laboratory</unittitle>
+                            <container id="cid2261763" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1965-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="file">
+                        <did>
+                            <unittitle>Entomology, Department of</unittitle>
+                            <container id="cid2261762" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle>Environmental Health: Department of Preventive Medicine, Department of Physiology</unittitle>
+                            <container id="cid2261761" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="file">
+                        <did>
+                            <unittitle>Experienced Teacher Fellowship Program</unittitle>
+                            <container id="cid2261760" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="file">
+                        <did>
+                            <unittitle>Faculty Council</unittitle>
+                            <container id="cid2261759" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="file">
+                        <did>
+                            <unittitle>Federal Aid to Research</unittitle>
+                            <container id="cid2261758" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="file">
+                        <did>
+                            <unittitle>Fellowships: NDEA, NSF, NASA</unittitle>
+                            <container id="cid2261757" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="file">
+                        <did>
+                            <unittitle>Firestone Tire and Rubber Company: R.L. Bebb (Akron, Ohio)</unittitle>
+                            <container id="cid2261756" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="file">
+                        <did>
+                            <unittitle>Food Protein Center: Proposal for -- Correspondence</unittitle>
+                            <container id="cid2261755" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="file">
+                        <did>
+                            <unittitle>Ford Foundation, (New York)</unittitle>
+                            <container id="cid2261754" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="file">
+                        <did>
+                            <unittitle>Foundations</unittitle>
+                            <container id="cid2261753" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>Gifts, Grants and Contracts, Revisions</unittitle>
+                            <container id="cid2261752" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="file">
+                        <did>
+                            <unittitle>Grant-in-Aid Allocation Reports (3 folders)</unittitle>
+                            <container id="cid2261751" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1959-1970</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="file">
+                        <did>
+                            <unittitle>Guidelines for Sponsored Research</unittitle>
+                            <container id="cid2261750" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1971</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="file">
+                        <did>
+                            <unittitle>Hamilton, Nancy: Questionnaire in Science</unittitle>
+                            <container id="cid2261749" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref83" level="file">
+                        <did>
+                            <unittitle>Health Sciences Advancement Award (3 folders)</unittitle>
+                            <container id="cid2261748" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1965-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>Health Sciences Library</unittitle>
+                            <container id="cid2261747" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="file">
+                        <did>
+                            <unittitle>High Energy Physics: AEC Grant</unittitle>
+                            <container id="cid2261746" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1965-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="file">
+                        <did>
+                            <unittitle>High Energy Physics: Romanowski, T.A. (Dr.)</unittitle>
+                            <container id="cid2261745" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1963-1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="file">
+                        <did>
+                            <unittitle>Highway Research and Development Center</unittitle>
+                            <container id="cid2261744" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="file">
+                        <did>
+                            <unittitle>History of Science: Project</unittitle>
+                            <container id="cid2261743" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="file">
+                        <did>
+                            <unittitle>Housing Urban Development (HUD)</unittitle>
+                            <container id="cid2261742" type="Box" label="Mixed Materials">UA.RG.7.A.0003</container>
+                            <unitdate>1966, 1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="file">
+                        <did>
+                            <unittitle>Human Subjects (2 folders)</unittitle>
+                            <container id="cid2261741" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1966-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref91" level="file">
+                        <did>
+                            <unittitle>Humanities and Arts</unittitle>
+                            <container id="cid2261740" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1966-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref92" level="file">
+                        <did>
+                            <unittitle>Hutchison, Clyde A. (Dr.): Correspondence</unittitle>
+                            <container id="cid2261739" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref93" level="file">
+                        <did>
+                            <unittitle>Hydrocarbon Samples: Chemistry Department</unittitle>
+                            <container id="cid2261738" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref94" level="file">
+                        <did>
+                            <unittitle>Industrial Arts Curriculum Project (I.A.C.P. Advisory Committee)</unittitle>
+                            <container id="cid2261737" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1965, 1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="file">
+                        <did>
+                            <unittitle>Industrial Research Report</unittitle>
+                            <container id="cid2261736" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="file">
+                        <did>
+                            <unittitle>Information Science</unittitle>
+                            <container id="cid2261735" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="file">
+                        <did>
+                            <unittitle>Institute for Perinatal Studies</unittitle>
+                            <container id="cid2261734" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1959-1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref98" level="file">
+                        <did>
+                            <unittitle>Institute for Research in Vision</unittitle>
+                            <container id="cid2261733" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1963-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref99" level="file">
+                        <did>
+                            <unittitle>Institute of Natural Resources (2 folders)</unittitle>
+                            <container id="cid2261732" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1962-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref100" level="file">
+                        <did>
+                            <unittitle>Institute of Nutrition and Food Technology (2 folders)</unittitle>
+                            <container id="cid2261731" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1962-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref101" level="file">
+                        <did>
+                            <unittitle>Institute of Polar Studies (2 folders)</unittitle>
+                            <container id="cid2261730" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1964-1970</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref102" level="file">
+                        <did>
+                            <unittitle>Institutes, Notes on</unittitle>
+                            <container id="cid2261729" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref103" level="file">
+                        <did>
+                            <unittitle>Integrated Research Budget</unittitle>
+                            <container id="cid2261728" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1964-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref104" level="file">
+                        <did>
+                            <unittitle>International Biological Program</unittitle>
+                            <container id="cid2261727" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref105" level="file">
+                        <did>
+                            <unittitle>International Programs</unittitle>
+                            <container id="cid2261726" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1966-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref106" level="file">
+                        <did>
+                            <unittitle>Journalism, School of</unittitle>
+                            <container id="cid2261725" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1965-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref107" level="file">
+                        <did>
+                            <unittitle>Keller, Martin (Dr.)</unittitle>
+                            <container id="cid2261724" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref108" level="file">
+                        <did>
+                            <unittitle>Khmelnitskiy, L. I. (Dr.): Russian Scholar</unittitle>
+                            <container id="cid2261723" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref109" level="file">
+                        <did>
+                            <unittitle>Kim, Y. S. (Professor of Physics): Computer</unittitle>
+                            <container id="cid2261722" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref110" level="file">
+                        <did>
+                            <unittitle>Kouyoumjian, Robert G. (Professor): Case</unittitle>
+                            <container id="cid2261721" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref111" level="file">
+                        <did>
+                            <unittitle>Kraus, John Daniel (Dr.) Professor of Electrical Engineering: Nominees for Regents Professor</unittitle>
+                            <container id="cid2261720" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref112" level="file">
+                        <did>
+                            <unittitle>Laboratory Animals: Ad Hoc Advisory Committee on</unittitle>
+                            <container id="cid2261719" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1964, 1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="file">
+                        <did>
+                            <unittitle>Laboratory Animals: Expenses</unittitle>
+                            <container id="cid2261718" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1960-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref114" level="file">
+                        <did>
+                            <unittitle>Laboratory Animals: General (4 folders)</unittitle>
+                            <container id="cid2261717" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1959-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref115" level="file">
+                        <did>
+                            <unittitle>Laboratory Animals: Inspection Reports (2 folders)</unittitle>
+                            <container id="cid2261716" type="Box" label="Mixed Materials">UA.RG.7.A.0004</container>
+                            <unitdate>1968-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref116" level="file">
+                        <did>
+                            <unittitle>Laboratory Animals: National Institute of Health</unittitle>
+                            <container id="cid2261715" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref117" level="file">
+                        <did>
+                            <unittitle>Laboratory Animals: Physical Facilities</unittitle>
+                            <container id="cid2261714" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1963-1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref118" level="file">
+                        <did>
+                            <unittitle>Laboratory Animals: Physical Facilities, Blueprints</unittitle>
+                            <container id="cid2261713" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref119" level="file">
+                        <did>
+                            <unittitle>Laboratory Animals: Physical Facilities, Psychology</unittitle>
+                            <container id="cid2261712" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref120" level="file">
+                        <did>
+                            <unittitle>Laboratory Animals: Physical Facilities, Research Center</unittitle>
+                            <container id="cid2261711" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref121" level="file">
+                        <did>
+                            <unittitle>Laboratory Animals: Physical Facilities, Site Visit</unittitle>
+                            <container id="cid2261710" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1965, 1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref122" level="file">
+                        <did>
+                            <unittitle>Laboratory Animals Center: Proposal</unittitle>
+                            <container id="cid2261709" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref123" level="file">
+                        <did>
+                            <unittitle>Lake Erie Laboratory</unittitle>
+                            <container id="cid2261708" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1966, 1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref124" level="file">
+                        <did>
+                            <unittitle>Laser Agreement: College of Medicine and Eastman Kodak</unittitle>
+                            <container id="cid2261707" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="file">
+                        <did>
+                            <unittitle>Latin American Center</unittitle>
+                            <container id="cid2261706" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref126" level="file">
+                        <did>
+                            <unittitle>Library: General (2 folders)</unittitle>
+                            <container id="cid2261705" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1965-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref127" level="file">
+                        <did>
+                            <unittitle>Library: Library Science, The Graduate School</unittitle>
+                            <container id="cid2261704" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref128" level="file">
+                        <did>
+                            <unittitle>Library: Library Stacks Construction</unittitle>
+                            <container id="cid2261703" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref129" level="file">
+                        <did>
+                            <unittitle>Library: Medical</unittitle>
+                            <container id="cid2261702" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1966-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref130" level="file">
+                        <did>
+                            <unittitle>Library: Ohio College Library Center</unittitle>
+                            <container id="cid2261701" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref131" level="file">
+                        <did>
+                            <unittitle>Literature Retrieval</unittitle>
+                            <container id="cid2261700" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref132" level="file">
+                        <did>
+                            <unittitle>Litvinov, V. P. (Dr.): (Chemistry in Russia)</unittitle>
+                            <container id="cid2261699" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref133" level="file">
+                        <did>
+                            <unittitle>Long-Term Planning</unittitle>
+                            <container id="cid2261698" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1969-1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref134" level="file">
+                        <did>
+                            <unittitle>Lunar Space Institute</unittitle>
+                            <container id="cid2261697" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1967-1968</unitdate>
+                        </did>
+                        <odd id="ref135">
+                            <head>General note</head>
+                            <p>(See Also: Universities Research Association)</p>
+                        </odd>
+                    </c03>
+                    <c03 id="ref136" level="file">
+                        <did>
+                            <unittitle>Man: A Course of Study (College of Education)- Proposal</unittitle>
+                            <container id="cid2261696" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref137" level="file">
+                        <did>
+                            <unittitle>McKitrick Property: Don Scott Field</unittitle>
+                            <container id="cid2261695" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="file">
+                        <did>
+                            <unittitle>McMasters, Robert (Dr.) Welding Engineering, OSU: Nominee for Scott Award</unittitle>
+                            <container id="cid2261694" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref139" level="file">
+                        <did>
+                            <unittitle>Medical and Renaissance Studies</unittitle>
+                            <container id="cid2261693" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref140" level="file">
+                        <did>
+                            <unittitle>Memos (Received)</unittitle>
+                            <container id="cid2261692" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1970</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref141" level="file">
+                        <did>
+                            <unittitle>Mershon Center for Education: Budget</unittitle>
+                            <container id="cid2261691" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1963-1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref142" level="file">
+                        <did>
+                            <unittitle>Mershon Committee on Education in National Security: Minutes and Correspondence</unittitle>
+                            <container id="cid2261690" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1963-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref143" level="file">
+                        <did>
+                            <unittitle>Meyer, Donald E., Psychology Department OSU</unittitle>
+                            <container id="cid2261689" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref144" level="file">
+                        <did>
+                            <unittitle>Microbiology, Department of</unittitle>
+                            <container id="cid2261688" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref145" level="file">
+                        <did>
+                            <unittitle>Midwestern Universities Research Association (MURA) (2 folders)</unittitle>
+                            <container id="cid2261687" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1962-1963, 1966-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref146" level="file">
+                        <did>
+                            <unittitle>Miller-Daddario Bill</unittitle>
+                            <container id="cid2261686" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1967-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref147" level="file">
+                        <did>
+                            <unittitle>National Aeronautics and Space Administration (NASA) (3 folders)</unittitle>
+                            <container id="cid2261685" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1964-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref148" level="file">
+                        <did>
+                            <unittitle>National Institutes of Health: Construction</unittitle>
+                            <container id="cid2261684" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1965-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref149" level="file">
+                        <did>
+                            <unittitle>National Institutes of Health: Correspondence, Restriction on International Travel, 1968; Grant Policies and Procedures</unittitle>
+                            <container id="cid2261683" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1964-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref150" level="file">
+                        <did>
+                            <unittitle>National Medal of Science Award</unittitle>
+                            <container id="cid2261682" type="Box" label="Mixed Materials">UA.RG.7.A.0005</container>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref151" level="file">
+                        <did>
+                            <unittitle>National Science Foundation (NSF)</unittitle>
+                            <container id="cid2261681" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1965-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref152" level="file">
+                        <did>
+                            <unittitle>National Science Foundation (NSF): Centers of Excellence - Preliminary Proposal</unittitle>
+                            <container id="cid2261680" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1965-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref153" level="file">
+                        <did>
+                            <unittitle>National Science Foundation (NSF): Information on Grants for Undergraduate Laboratory Equipment</unittitle>
+                            <container id="cid2261679" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1963, 1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref154" level="file">
+                        <did>
+                            <unittitle>National Science Foundation (NSF): Ohio State University Research Foundation: Correspondence; Active RF Projects CJI</unittitle>
+                            <container id="cid2261678" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref155" level="file">
+                        <did>
+                            <unittitle>Natural Resources, School of: Correspondence, Proposals</unittitle>
+                            <container id="cid2261677" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1967-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref156" level="file">
+                        <did>
+                            <unittitle>Neotoma Ecological and Bioenvironmental Laboratory: Lease (Hocking County)</unittitle>
+                            <container id="cid2261676" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1964-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref157" level="file">
+                        <did>
+                            <unittitle>Nuclear Reactor (2 folders)</unittitle>
+                            <container id="cid2261675" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1964-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref158" level="file">
+                        <did>
+                            <unittitle>Nuclear Reactor: Operation; Advisory Committee</unittitle>
+                            <container id="cid2261674" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1965-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref159" level="file">
+                        <did>
+                            <unittitle>Nuclear Research and Development</unittitle>
+                            <container id="cid2261673" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1965-1966, 1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref160" level="file">
+                        <did>
+                            <unittitle>Numerical Computation Laboratory: General</unittitle>
+                            <container id="cid2261672" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref161" level="file">
+                        <did>
+                            <unittitle>Oceanography: Gravity Data Center</unittitle>
+                            <container id="cid2261671" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref162" level="file">
+                        <did>
+                            <unittitle>Ohio Biological Survey</unittitle>
+                            <container id="cid2261670" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1966-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref163" level="file">
+                        <did>
+                            <unittitle>Ohio Historical Society: Building</unittitle>
+                            <container id="cid2261669" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref164" level="file">
+                        <did>
+                            <unittitle>Ohio River Division Laboratory (ORDL)</unittitle>
+                            <container id="cid2261668" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref165" level="file">
+                        <did>
+                            <unittitle>Ohio State Historical Society: Natural History Collection - Correspondence</unittitle>
+                            <container id="cid2261667" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1965-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref166" level="file">
+                        <did>
+                            <unittitle>Ohio State Historical Society: Natural History Collection - Reports (2 folders)</unittitle>
+                            <container id="cid2261666" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref167" level="file">
+                        <did>
+                            <unittitle>Ohio Valley Assembly</unittitle>
+                            <container id="cid2261665" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref168" level="file">
+                        <did>
+                            <unittitle>Oral History Center for Latin America</unittitle>
+                            <container id="cid2261664" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1966-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref169" level="file">
+                        <did>
+                            <unittitle>Oral History Program for Latin America: Research Papers</unittitle>
+                            <container id="cid2261663" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1967-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref170" level="file">
+                        <did>
+                            <unittitle>Oxley Hall: Problem</unittitle>
+                            <container id="cid2261662" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref171" level="file">
+                        <did>
+                            <unittitle>Panel Members: Colleges, National Foundation</unittitle>
+                            <container id="cid2261661" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1967-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref172" level="file">
+                        <did>
+                            <unittitle>Penta County Technical Institute</unittitle>
+                            <container id="cid2261660" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1967-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref173" level="file">
+                        <did>
+                            <unittitle>Pharmacy, College of</unittitle>
+                            <container id="cid2261659" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref174" level="file">
+                        <did>
+                            <unittitle>Photography, Department of</unittitle>
+                            <container id="cid2261658" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref175" level="file">
+                        <did>
+                            <unittitle>Physical Education, Department of</unittitle>
+                            <container id="cid2261657" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref176" level="file">
+                        <did>
+                            <unittitle>Physics and Astronomy Building</unittitle>
+                            <container id="cid2261656" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref177" level="file">
+                        <did>
+                            <unittitle>Physics Building: New Addition</unittitle>
+                            <container id="cid2261655" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref178" level="file">
+                        <did>
+                            <unittitle>Plant Pathology, Department of</unittitle>
+                            <container id="cid2261654" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref179" level="file">
+                        <did>
+                            <unittitle>Population Studies: Ad Hoc Committee</unittitle>
+                            <container id="cid2261653" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1962-1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref180" level="file">
+                        <did>
+                            <unittitle>Post Doctoral: Reports, Correspondence, Exhibits</unittitle>
+                            <container id="cid2261652" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1964-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="file">
+                        <did>
+                            <unittitle>President's Report (Extended Outline)</unittitle>
+                            <container id="cid2261651" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1966-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="file">
+                        <did>
+                            <unittitle>Proposals (Model copy)</unittitle>
+                            <container id="cid2261650" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref183" level="file">
+                        <did>
+                            <unittitle>Psychology, Department of</unittitle>
+                            <container id="cid2261649" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1963-1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref184" level="file">
+                        <did>
+                            <unittitle>Radiation Safety Committee</unittitle>
+                            <container id="cid2261648" type="Box" label="Mixed Materials">UA.RG.7.A.0006</container>
+                            <unitdate>1962-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref185" level="file">
+                        <did>
+                            <unittitle>Radiation Safety Committee</unittitle>
+                            <container id="cid2261647" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1967-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref186" level="file">
+                        <did>
+                            <unittitle>Radio Observatory</unittitle>
+                            <container id="cid2261646" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1965-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref187" level="file">
+                        <did>
+                            <unittitle>Regents Material: State Appropriations vs. Federal Grants</unittitle>
+                            <container id="cid2261645" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref188" level="file">
+                        <did>
+                            <unittitle>Regents Professors</unittitle>
+                            <container id="cid2261644" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1968-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref189" level="file">
+                        <did>
+                            <unittitle>Repertory Theatre</unittitle>
+                            <container id="cid2261643" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref190" level="file">
+                        <did>
+                            <unittitle>Research, Office of</unittitle>
+                            <container id="cid2261642" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1968-1970</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref191" level="file">
+                        <did>
+                            <unittitle>Research Administrations: Ohio Universities</unittitle>
+                            <container id="cid2261641" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1967-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref192" level="file">
+                        <did>
+                            <unittitle>Research vs. Instruction</unittitle>
+                            <container id="cid2261640" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref193" level="file">
+                        <did>
+                            <unittitle>Research Center (OSU): Proposal for</unittitle>
+                            <container id="cid2261639" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref194" level="file">
+                        <did>
+                            <unittitle>Research Center (OSU)</unittitle>
+                            <container id="cid2261638" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref195" level="file">
+                        <did>
+                            <unittitle>Research Committee: Report for Faculty Council</unittitle>
+                            <container id="cid2261637" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref196" level="file">
+                        <did>
+                            <unittitle>Research Council</unittitle>
+                            <container id="cid2261636" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1968-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref197" level="file">
+                        <did>
+                            <unittitle>Research Foundation: Project Reports</unittitle>
+                            <container id="cid2261635" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref198" level="file">
+                        <did>
+                            <unittitle>Research Grants: Analysis by Department</unittitle>
+                            <container id="cid2261634" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1966-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref199" level="file">
+                        <did>
+                            <unittitle>Research Officers (Colleges, OSU)</unittitle>
+                            <container id="cid2261633" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1966-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref200" level="file">
+                        <did>
+                            <unittitle>Richland County Technical Institute (2 folders)</unittitle>
+                            <container id="cid2261632" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1966-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref201" level="file">
+                        <did>
+                            <unittitle>Safe Practices</unittitle>
+                            <container id="cid2261631" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1967-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref202" level="file">
+                        <did>
+                            <unittitle>Salmon, Raphael J.</unittitle>
+                            <container id="cid2261630" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1964-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref203" level="file">
+                        <did>
+                            <unittitle>"Scholars Bill": House Bill #315-302</unittitle>
+                            <container id="cid2261629" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1963-1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref204" level="file">
+                        <did>
+                            <unittitle>Science Development Program</unittitle>
+                            <container id="cid2261628" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref205" level="file">
+                        <did>
+                            <unittitle>Social Science Research Center, Plans for: By Professor Lawrence Krader</unittitle>
+                            <container id="cid2261627" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref206" level="file">
+                        <did>
+                            <unittitle>Space Assignment (Research)</unittitle>
+                            <container id="cid2261626" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref207" level="file">
+                        <did>
+                            <unittitle>Space Needs</unittitle>
+                            <container id="cid2261625" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1964-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref208" level="file">
+                        <did>
+                            <unittitle>Speaker's Rule</unittitle>
+                            <container id="cid2261624" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref209" level="file">
+                        <did>
+                            <unittitle>Stadium: Bay under 2d</unittitle>
+                            <container id="cid2261623" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref210" level="file">
+                        <did>
+                            <unittitle>State Technical Services Act (3 folders)</unittitle>
+                            <container id="cid2261622" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1965-1970</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref211" level="file">
+                        <did>
+                            <unittitle>Statistics Department</unittitle>
+                            <container id="cid2261621" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref212" level="file">
+                        <did>
+                            <unittitle>Stone Laboratory</unittitle>
+                            <container id="cid2261620" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref213" level="file">
+                        <did>
+                            <unittitle>Summer Fellowships: (Accepted)</unittitle>
+                            <container id="cid2261619" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref214" level="file">
+                        <did>
+                            <unittitle>Summer Fellowships: Development Fund (Faculty)</unittitle>
+                            <container id="cid2261618" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1966-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref215" level="file">
+                        <did>
+                            <unittitle>Summer Fellowships: (Rejected)</unittitle>
+                            <container id="cid2261617" type="Box" label="Mixed Materials">UA.RG.7.A.0007</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref216" level="file">
+                        <did>
+                            <unittitle>Systems Engineering Building</unittitle>
+                            <container id="cid2261616" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref217" level="file">
+                        <did>
+                            <unittitle>Technical Services Act</unittitle>
+                            <container id="cid2261615" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1966-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref218" level="file">
+                        <did>
+                            <unittitle>Television Link Between OSU Campus and Wright-Patterson AFB</unittitle>
+                            <container id="cid2261614" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref219" level="file">
+                        <did>
+                            <unittitle>Themis Project</unittitle>
+                            <container id="cid2261613" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref220" level="file">
+                        <did>
+                            <unittitle>Traffic Study</unittitle>
+                            <container id="cid2261612" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref221" level="file">
+                        <did>
+                            <unittitle>Transportation Research Center</unittitle>
+                            <container id="cid2261611" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref222" level="file">
+                        <did>
+                            <unittitle>Universities Research Association</unittitle>
+                            <container id="cid2261610" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1967-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref223" level="file">
+                        <did>
+                            <unittitle>University College</unittitle>
+                            <container id="cid2261609" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref224" level="file">
+                        <did>
+                            <unittitle>University Research Administrators</unittitle>
+                            <container id="cid2261608" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref225" level="file">
+                        <did>
+                            <unittitle>Urban Affairs</unittitle>
+                            <container id="cid2261607" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1968-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref226" level="file">
+                        <did>
+                            <unittitle>Urban Corps: College Work-Study Program</unittitle>
+                            <container id="cid2261606" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref227" level="file">
+                        <did>
+                            <unittitle>U.S. Department of Health, Education, and Welfare</unittitle>
+                            <container id="cid2261605" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1966-1967, 1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref228" level="file">
+                        <did>
+                            <unittitle>Van de Graaff Laboratory</unittitle>
+                            <container id="cid2261604" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1964-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref229" level="file">
+                        <did>
+                            <unittitle>Veterinary Medicine</unittitle>
+                            <container id="cid2261603" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref230" level="file">
+                        <did>
+                            <unittitle>Veterinary Medicine, College of: Grant</unittitle>
+                            <container id="cid2261602" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1968-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref231" level="file">
+                        <did>
+                            <unittitle>Veterinary Medicine, College of: Large Animal Isolation Ward</unittitle>
+                            <container id="cid2261601" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1968-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref232" level="file">
+                        <did>
+                            <unittitle>Veterinary Medicine, College of: Veterinary Practice (Marysville, Ohio)</unittitle>
+                            <container id="cid2261600" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1968-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref233" level="file">
+                        <did>
+                            <unittitle>Vocational Education: National Center</unittitle>
+                            <container id="cid2261599" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1964, 1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref234" level="file">
+                        <did>
+                            <unittitle>War Research Building</unittitle>
+                            <container id="cid2261598" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref235" level="file">
+                        <did>
+                            <unittitle>Water Related Programs: Committee on Institutional Cooperation</unittitle>
+                            <container id="cid2261597" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1967-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref236" level="file">
+                        <did>
+                            <unittitle>Water Resources: Advisory Committee -- Minutes</unittitle>
+                            <container id="cid2261596" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1965-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref237" level="file">
+                        <did>
+                            <unittitle>Water Resources: Correspondence (2 folders)</unittitle>
+                            <container id="cid2261595" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1963-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref238" level="file">
+                        <did>
+                            <unittitle>Weed, Herman R.: Correspondence</unittitle>
+                            <container id="cid2261594" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref239" level="file">
+                        <did>
+                            <unittitle>West Campus Planning</unittitle>
+                            <container id="cid2261593" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1968-1969</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref240" level="subseries">
+                    <did>
+                        <unittitle>Ohio State University Research Foundation</unittitle>
+                        <unitid>Series 2</unitid>
+                        <unitdate>1954-1969</unitdate>
+                    </did>
+                    <c03 id="ref241" level="file">
+                        <did>
+                            <unittitle>Board of Directors (4 folders)</unittitle>
+                            <container id="cid2261592" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1955-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref242" level="file">
+                        <did>
+                            <unittitle>Board of Directors: Annual Meeting</unittitle>
+                            <container id="cid2261591" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref243" level="file">
+                        <did>
+                            <unittitle>Budget</unittitle>
+                            <container id="cid2261590" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1964-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref244" level="file">
+                        <did>
+                            <unittitle>Charter and Code of Regulations</unittitle>
+                            <container id="cid2261589" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1954, 1956, 1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref245" level="file">
+                        <did>
+                            <unittitle>Consultants</unittitle>
+                            <container id="cid2261588" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1956, 1963, 1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref246" level="file">
+                        <did>
+                            <unittitle>Contingency Funds</unittitle>
+                            <container id="cid2261587" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1962-1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref247" level="file">
+                        <did>
+                            <unittitle>Correspondence, Miscellaneous</unittitle>
+                            <container id="cid2261586" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1963-1965, 1968-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref248" level="file">
+                        <did>
+                            <unittitle>Cost Sharing</unittitle>
+                            <container id="cid2261585" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref249" level="file">
+                        <did>
+                            <unittitle>Delinquenty Reports on Grants and Contracts</unittitle>
+                            <container id="cid2261584" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1964-1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref250" level="file">
+                        <did>
+                            <unittitle>Executive Committee</unittitle>
+                            <container id="cid2261583" type="Box" label="Mixed Materials">UA.RG.7.A.0008</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref251" level="file">
+                        <did>
+                            <unittitle>Executive Committee (2 folders)</unittitle>
+                            <container id="cid2261582" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1966-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref252" level="file">
+                        <did>
+                            <unittitle>Financial Statements</unittitle>
+                            <container id="cid2261581" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1964-1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref253" level="file">
+                        <did>
+                            <unittitle>Management Study: Report</unittitle>
+                            <container id="cid2261580" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref254" level="file">
+                        <did>
+                            <unittitle>National Science Foundation: Ceiling</unittitle>
+                            <container id="cid2261579" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref255" level="file">
+                        <did>
+                            <unittitle>New Employee Contract</unittitle>
+                            <container id="cid2261578" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref256" level="file">
+                        <did>
+                            <unittitle>Obstetrics and Gynecology, Department of</unittitle>
+                            <container id="cid2261577" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1964, 1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref257" level="file">
+                        <did>
+                            <unittitle>Office Expansion: Plans</unittitle>
+                            <container id="cid2261576" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref258" level="file">
+                        <did>
+                            <unittitle>"Organization, Objectives, Policies, and Procedures"</unittitle>
+                            <container id="cid2261575" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref259" level="file">
+                        <did>
+                            <unittitle>Overhead Funds</unittitle>
+                            <container id="cid2261574" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref260" level="file">
+                        <did>
+                            <unittitle>Projects, Active</unittitle>
+                            <container id="cid2261573" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref261" level="file">
+                        <did>
+                            <unittitle>Project 1239: Obstetrics and Gynecology Department</unittitle>
+                            <container id="cid2261572" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref262" level="file">
+                        <did>
+                            <unittitle>Rental Space</unittitle>
+                            <container id="cid2261571" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref263" level="file">
+                        <did>
+                            <unittitle>Reserve Funds: Administration of</unittitle>
+                            <container id="cid2261570" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref264" level="file">
+                        <did>
+                            <unittitle>Review Committee</unittitle>
+                            <container id="cid2261569" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref265" level="file">
+                        <did>
+                            <unittitle>Security Manual for Classified Material</unittitle>
+                            <container id="cid2261568" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref266" level="file">
+                        <did>
+                            <unittitle>Stephenson, Robert C. (Executive Director of American Geological Institute)</unittitle>
+                            <container id="cid2261567" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1962-1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref267" level="file">
+                        <did>
+                            <unittitle>Storage Room</unittitle>
+                            <container id="cid2261566" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref268" level="file">
+                        <did>
+                            <unittitle>Systems Management Study</unittitle>
+                            <container id="cid2261565" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref269" level="file">
+                        <did>
+                            <unittitle>Travel: Per Diem</unittitle>
+                            <container id="cid2261564" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref270" level="file">
+                        <did>
+                            <unittitle>University Research Parks</unittitle>
+                            <container id="cid2261563" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref271" level="file">
+                        <did>
+                            <unittitle>Woolperty Oram (Dr.): Retirement</unittitle>
+                            <container id="cid2261562" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref272" level="subseries">
+                    <did>
+                        <unittitle>Research Activity</unittitle>
+                        <unitid>Series 3</unitid>
+                        <unitdate>1960-1969</unitdate>
+                    </did>
+                    <odd id="ref306">
+                        <head>General note</head>
+                        <p>Sub-Group</p>
+                    </odd>
+                    <c03 id="ref273" level="file">
+                        <did>
+                            <unittitle>Aeronautical and Astronautical Engineering Department of</unittitle>
+                            <container id="cid2261561" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref274" level="file">
+                        <did>
+                            <unittitle>Agricultural Economics and Rural Sociology, Department of</unittitle>
+                            <container id="cid2261560" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref275" level="file">
+                        <did>
+                            <unittitle>Agricultural Engineering, Department of</unittitle>
+                            <container id="cid2261559" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref276" level="file">
+                        <did>
+                            <unittitle>Agricultural Experiment Station</unittitle>
+                            <container id="cid2261558" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref277" level="file">
+                        <did>
+                            <unittitle>Agriculture, College of</unittitle>
+                            <container id="cid2261557" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref278" level="file">
+                        <did>
+                            <unittitle>Agronomy, Department of</unittitle>
+                            <container id="cid2261556" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref279" level="file">
+                        <did>
+                            <unittitle>Arts and Sciences, College of</unittitle>
+                            <container id="cid2261555" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref280" level="file">
+                        <did>
+                            <unittitle>Astronomy, Department of</unittitle>
+                            <container id="cid2261554" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref281" level="file">
+                        <did>
+                            <unittitle>Botany and Plant Pathology, Department of</unittitle>
+                            <container id="cid2261553" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref282" level="file">
+                        <did>
+                            <unittitle>Bureau of Business Research</unittitle>
+                            <container id="cid2261552" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref283" level="file">
+                        <did>
+                            <unittitle>Chemistry, Department of</unittitle>
+                            <container id="cid2261551" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref284" level="file">
+                        <did>
+                            <unittitle>Commerce and Administration, College of</unittitle>
+                            <container id="cid2261550" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref285" level="file">
+                        <did>
+                            <unittitle>Defense Management Center</unittitle>
+                            <container id="cid2261549" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1962-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref286" level="file">
+                        <did>
+                            <unittitle>Dentistry, College of</unittitle>
+                            <container id="cid2261548" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1964, 1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref287" level="file">
+                        <did>
+                            <unittitle>Education, College of</unittitle>
+                            <container id="cid2261547" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1964-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref288" level="file">
+                        <did>
+                            <unittitle>Engineering Experiment Station</unittitle>
+                            <container id="cid2261546" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1965-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref289" level="file">
+                        <did>
+                            <unittitle>English, Department of</unittitle>
+                            <container id="cid2261545" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1963, 1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref290" level="file">
+                        <did>
+                            <unittitle>Food Technology, Institute of</unittitle>
+                            <container id="cid2261544" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1961-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref291" level="file">
+                        <did>
+                            <unittitle>Geodetic Sciences, Department of</unittitle>
+                            <container id="cid2261543" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1963-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref292" level="file">
+                        <did>
+                            <unittitle>Geology, Department of</unittitle>
+                            <container id="cid2261542" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1964-1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref293" level="file">
+                        <did>
+                            <unittitle>History, Department of</unittitle>
+                            <container id="cid2261541" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref294" level="file">
+                        <did>
+                            <unittitle>Home Economics, School of</unittitle>
+                            <container id="cid2261540" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref295" level="file">
+                        <did>
+                            <unittitle>Industrial Engineering, Department of</unittitle>
+                            <container id="cid2261539" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1962, 1968-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref296" level="file">
+                        <did>
+                            <unittitle>Medicine, College of</unittitle>
+                            <container id="cid2261538" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref297" level="file">
+                        <did>
+                            <unittitle>Metallurgy, Department of</unittitle>
+                            <container id="cid2261537" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref298" level="file">
+                        <did>
+                            <unittitle>Music, School of</unittitle>
+                            <container id="cid2261536" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref299" level="file">
+                        <did>
+                            <unittitle>Ophthalmology, Department of</unittitle>
+                            <container id="cid2261535" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref300" level="file">
+                        <did>
+                            <unittitle>Pharmacy, College of</unittitle>
+                            <container id="cid2261534" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1964-1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref301" level="file">
+                        <did>
+                            <unittitle>Polar Studies, Institute of</unittitle>
+                            <container id="cid2261533" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1960, 1966-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref302" level="file">
+                        <did>
+                            <unittitle>Political Science, Department of</unittitle>
+                            <container id="cid2261532" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref303" level="file">
+                        <did>
+                            <unittitle>Sociology, Department of</unittitle>
+                            <container id="cid2261531" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref304" level="file">
+                        <did>
+                            <unittitle>Vision, Institute for Research in</unittitle>
+                            <container id="cid2261530" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1965-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref305" level="file">
+                        <did>
+                            <unittitle>Zoology and Entomology, Department of</unittitle>
+                            <container id="cid2261529" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref307" level="subseries">
+                    <did>
+                        <unittitle>Federal Programs</unittitle>
+                        <unitid>Series 4</unitid>
+                        <unitdate>1963-1970</unitdate>
+                    </did>
+                    <c03 id="ref308" level="file">
+                        <did>
+                            <unittitle>Correspondence: Arthur D. Lynn, Jr. (Associate Dean)</unittitle>
+                            <container id="cid2261528" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1966-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref309" level="file">
+                        <did>
+                            <unittitle>Correspondence: Miscellaneous</unittitle>
+                            <container id="cid2261527" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1966-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref310" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1963 (HEFA)</unittitle>
+                            <container id="cid2261526" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref311" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1963 (HEFA): General Materials (2 folders)</unittitle>
+                            <container id="cid2261525" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1963-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref312" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1963 (HEFA): State of Ohio Plan for Implementation</unittitle>
+                            <container id="cid2261524" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1965-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref313" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1963 (HEFA): Title I -- Project File Summaries</unittitle>
+                            <container id="cid2261523" type="Box" label="Mixed Materials">UA.RG.7.A.0009</container>
+                            <unitdate>1963-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref314" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1963 (HEFA): Title I -- Allied Medical Professions, School of</unittitle>
+                            <container id="cid2261522" type="Box" label="Mixed Materials">UA.RG.7.A.0010</container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref315" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1963 (HEFA): Title I -- Dental School Addition</unittitle>
+                            <container id="cid2261521" type="Box" label="Mixed Materials">UA.RG.7.A.0010</container>
+                            <unitdate>1966-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref316" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1963 (HEFA): Title I -- Humanities Languages Building</unittitle>
+                            <container id="cid2261520" type="Box" label="Mixed Materials">UA.RG.7.A.0010</container>
+                            <unitdate>1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref317" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1963 (HEFA): Title I -- Mansfield Technical Institute (5 folders)</unittitle>
+                            <container id="cid2261519" type="Box" label="Mixed Materials">UA.RG.7.A.0010</container>
+                            <unitdate>1966-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref318" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1963 (HEFA): Title II -- General Materials</unittitle>
+                            <container id="cid2261518" type="Box" label="Mixed Materials">UA.RG.7.A.0010</container>
+                            <unitdate>1965-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref319" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1963 (HEFA): Title III -- General Materials</unittitle>
+                            <container id="cid2261517" type="Box" label="Mixed Materials">UA.RG.7.A.0010</container>
+                            <unitdate>1967, 1970</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref320" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1965 (HEFA)</unittitle>
+                            <container id="cid2261516" type="Box" label="Mixed Materials">UA.RG.7.A.0010</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref321" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1965 (HEFA): General Materials</unittitle>
+                            <container id="cid2261515" type="Box" label="Mixed Materials">UA.RG.7.A.0010</container>
+                            <unitdate>1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref322" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1965 (HEFA): Title I. -- General Materials</unittitle>
+                            <container id="cid2261514" type="Box" label="Mixed Materials">UA.RG.7.A.0010</container>
+                            <unitdate>1967-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref323" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1965 (HEFA): Title I. -- Regents Advisory Committee on Continuing Education, General (3 folders)</unittitle>
+                            <container id="cid2261513" type="Box" label="Mixed Materials">UA.RG.7.A.0010</container>
+                            <unitdate>1967-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref324" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1965 (HEFA): Title I. -- Regents Advisory Committee on Continuing Education, Projects</unittitle>
+                            <container id="cid2261512" type="Box" label="Mixed Materials">UA.RG.7.A.0010</container>
+                            <unitdate>1968-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref325" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1965 (HEFA): Title I (3 folders)</unittitle>
+                            <container id="cid2261511" type="Box" label="Mixed Materials">UA.RG.7.A.0010</container>
+                            <unitdate>1966-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref326" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1965 (HEFA): Title I (3 folders)</unittitle>
+                            <container id="cid2261510" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1968-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref327" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1965 (HEFA): Title II -- General Materials</unittitle>
+                            <container id="cid2261509" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref328" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1965 (HEFA): Title II -- Library, General (3 folders)</unittitle>
+                            <container id="cid2261508" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1966-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref329" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1965 (HEFA): Title II -- Library, Information Science Fellowships</unittitle>
+                            <container id="cid2261507" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1967-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref330" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1965 (HEFA): Title VI -- General Materials</unittitle>
+                            <container id="cid2261506" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref331" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1965 (HEFA): Title VI -- Category I (4 folders)</unittitle>
+                            <container id="cid2261505" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1968-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref332" level="file">
+                        <did>
+                            <unittitle>Higher Education Facilities Act of 1965 (HEFA): Title VI -- Category II</unittitle>
+                            <container id="cid2261504" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref333" level="file">
+                        <did>
+                            <unittitle>Mental Retardation</unittitle>
+                            <container id="cid2261503" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1966-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref334" level="file">
+                        <did>
+                            <unittitle>National Science Foundation (NSF) Program</unittitle>
+                            <container id="cid2261502" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref335" level="file">
+                        <did>
+                            <unittitle>Public Health Service Act</unittitle>
+                            <container id="cid2261501" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1966-1967</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref336" level="subseries">
+                    <did>
+                        <unittitle>Grant Applications</unittitle>
+                        <unitid>Series 5</unitid>
+                        <unitdate>1962-1969</unitdate>
+                    </did>
+                    <c03 id="ref337" level="file">
+                        <did>
+                            <unittitle>Aeronautical and Astronautical Engineering (NSF)</unittitle>
+                            <container id="cid2261500" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref338" level="file">
+                        <did>
+                            <unittitle>Biochemistry (NSF)</unittitle>
+                            <container id="cid2261499" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref339" level="file">
+                        <did>
+                            <unittitle>Botany and Plant Pathology (Rockefeller)</unittitle>
+                            <container id="cid2261498" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1962-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref340" level="file">
+                        <did>
+                            <unittitle>Chemistry -- Dr. Firestone (AEC)</unittitle>
+                            <container id="cid2261497" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref341" level="file">
+                        <did>
+                            <unittitle>Chemistry -- Dr. Wolfrom (AEC)</unittitle>
+                            <container id="cid2261496" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref342" level="file">
+                        <did>
+                            <unittitle>Chemistry -- Pre-Service Teacher Training (NSF)</unittitle>
+                            <container id="cid2261495" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref343" level="file">
+                        <did>
+                            <unittitle>Chemistry -- Renovation of Lab E (OSURF)</unittitle>
+                            <container id="cid2261494" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1962-1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref344" level="file">
+                        <did>
+                            <unittitle>Clinical Psychology (NIH)</unittitle>
+                            <container id="cid2261493" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref345" level="file">
+                        <did>
+                            <unittitle>Cuban Teachers Project (US Govt.)</unittitle>
+                            <container id="cid2261492" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1962-1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref346" level="file">
+                        <did>
+                            <unittitle>Delinquency Research -- Dr. Reckless (Ford Fdn)</unittitle>
+                            <container id="cid2261491" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref347" level="file">
+                        <did>
+                            <unittitle>Education, College of (NEW)</unittitle>
+                            <container id="cid2261490" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref348" level="file">
+                        <did>
+                            <unittitle>Geodesy, Research Center for -- Renovation of</unittitle>
+                            <container id="cid2261489" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref349" level="file">
+                        <did>
+                            <unittitle>Geology -- Mass Spectrometer (NSF)</unittitle>
+                            <container id="cid2261488" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref350" level="file">
+                        <did>
+                            <unittitle>Geology -- Mendenhall Renovation (NSF)</unittitle>
+                            <container id="cid2261487" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref351" level="file">
+                        <did>
+                            <unittitle>Geology -- Notre Dame, Joint Effort with University of (NSF)</unittitle>
+                            <container id="cid2261486" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref352" level="file">
+                        <did>
+                            <unittitle>McPherson Lab -- Renovation of Room 110 (OSURF)</unittitle>
+                            <container id="cid2261485" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref353" level="file">
+                        <did>
+                            <unittitle>Microbiology -- Construction of New Building (NIH)</unittitle>
+                            <container id="cid2261484" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref354" level="file">
+                        <did>
+                            <unittitle>Nutrition -- Dr. Clements (NSF)</unittitle>
+                            <container id="cid2261483" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref355" level="file">
+                        <did>
+                            <unittitle>Nutrition -- Institute of Food Technology and (PHS)</unittitle>
+                            <container id="cid2261482" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref356" level="file">
+                        <did>
+                            <unittitle>Pearce -- Charvat English Project (Research Council)</unittitle>
+                            <container id="cid2261481" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref357" level="file">
+                        <did>
+                            <unittitle>Physics (NSF)</unittitle>
+                            <container id="cid2261480" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref358" level="file">
+                        <did>
+                            <unittitle>Physics (AEC)</unittitle>
+                            <container id="cid2261479" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref359" level="file">
+                        <did>
+                            <unittitle>Stone Laboratory Renovation</unittitle>
+                            <container id="cid2261478" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref360" level="file">
+                        <did>
+                            <unittitle>Utley Folklore Project</unittitle>
+                            <container id="cid2261477" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1962-1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref361" level="file">
+                        <did>
+                            <unittitle>War Research Building -- Renovation of (OSURF)</unittitle>
+                            <container id="cid2261476" type="Box" label="Mixed Materials">UA.RG.7.A.0011</container>
+                            <unitdate>1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref362" level="file">
+                        <did>
+                            <unittitle>Biomedical Sciences Support Grants -- NIH Documents</unittitle>
+                            <container id="cid2261475" type="Box" label="Mixed Materials">UA.RG.7.A.0012</container>
+                            <unitdate>1966-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref363" level="file">
+                        <did>
+                            <unittitle>Research Council (4 folders)</unittitle>
+                            <container id="cid2261474" type="Box" label="Mixed Materials">UA.RG.7.A.0012</container>
+                            <unitdate>1962-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref364" level="file">
+                        <did>
+                            <unittitle>Research Council (2 folders)</unittitle>
+                            <container id="cid2261473" type="Box" label="Mixed Materials">UA.RG.7.A.0013</container>
+                            <unitdate>1968-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref365" level="file">
+                        <did>
+                            <unittitle>Research Council: Steering Committee</unittitle>
+                            <container id="cid2261472" type="Box" label="Mixed Materials">UA.RG.7.A.0013</container>
+                            <unitdate>1967-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref366" level="file">
+                        <did>
+                            <unittitle>Research Council: Urban Task Force</unittitle>
+                            <container id="cid2261471" type="Box" label="Mixed Materials">UA.RG.7.A.0013</container>
+                            <unitdate>1968-1969</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
